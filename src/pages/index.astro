@@ -6,7 +6,7 @@ import HomePosts from "../components/HomePosts.astro";
 import ColorScript from "../components/ColorScript.astro";
 import Tags from "../components/Tags.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
-import { Content as About } from "./about.md";
+import About from "./about.md";
 import getTags from "../scripts/getTags";
 
 const posts = await Astro.glob("../posts/*.md");
@@ -28,12 +28,12 @@ const tags = getTags(posts);
 
 			<HomePosts allPosts={posts} />
 
-			<p class="center">
+			<!-- <p class="center">
 				You can also <a href="https://blog.cassidoo.co/rss.xml">
 					subscribe with RSS!
 				</a>
-			</p>
-			<br />
+			</p> -->
+			<!-- <br /> -->
 
 			<Tags tags={tags} all />
 		</main>
