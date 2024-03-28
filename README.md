@@ -1,4 +1,8 @@
-# Piyush's blog
+
+<img title="Site Icon" alt="Site favicon" src="public/favicon.ico">
+
+# Piyush's blog 
+
 
 [![Github Action status](https://github.com/Piyush811999/blog/actions/workflows/deploy.yml/badge.svg?event=push)](https://github.com/Piyush811999/blog/actions)
 
@@ -17,6 +21,6 @@ All commands are run from the root of the project, from a terminal:
 | `npm install`                    | Installs dependencies                                         |
 | `npm run dev`                    | Starts local dev server at `localhost:4321`                   |
 
-## ToDo for future
+## ToDo
 - [ ] Dark Mode support (It's present in parent [blahg](https://github.com/cassidoo/blahg), but I broke it while making modifications)
 - [ ] A gallery page for all my Drawings, designs and photography stuff.
