@@ -6,17 +6,22 @@ import { SITE_TITLE, SITE_SUBTITLE } from "../config";
 <header class="header">
 	<div class="header-section">
 		<div class="header-frame">
-			<!-- <h3 class="website-header-subtitle">{SITE_TITLE}</h3> -->
-			<h2 class="website-header-title">{SITE_SUBTITLE}</h2>
+			<script is:inline>
+				function navigateToPosts() {
+					window.location.href = "/posts";
+				}
+			</script>
+			<h2 class="website-header-title" onclick="navigateToPosts()" style="cursor: pointer;">{SITE_SUBTITLE}</h2>
 			<p class="align-right">Piyush's Blog</p>
 		</div>
 	</div>
 </header>
+{Astro.props.hideNav ? '' :
 <nav>
-	<HeaderLink class="navigation_title" href="/posts">posts</HeaderLink>
-	<HeaderLink class="navigation_title" href="/">about</HeaderLink>
-	</HeaderLink>
+    <HeaderLink class="navigation_title" href="/posts">posts</HeaderLink>
+    <HeaderLink class="navigation_title" href="/">about</HeaderLink>
 </nav>
+}
 <style>
 	h2 {
 		margin: 0.5em 0;
@@ -25,5 +30,5 @@ import { SITE_TITLE, SITE_SUBTITLE } from "../config";
 	.align-right {
 	font-size: xx-small;
     text-align: center;
-}
+	}
 </style>

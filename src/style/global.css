@@ -126,6 +126,15 @@ a {
 	border-radius: 2px
 }
 
+.website-header {
+	color: var(--black);
+	text-decoration: none;
+	/* background-color: var(--linkhighlight); */
+	padding-right: 4px;
+	padding-left: 4px;
+	border-radius: 2px
+}
+
 a:hover {
     background-color: var(--linkhover); /* Change to the color you want on hover */
 }
@@ -152,9 +161,9 @@ a:hover {
 	color: var(--black);
 	text-decoration: none;
 	background-color: transparent;
-	padding-right: 4px;
-	padding-left: 4px;
-	border-radius: 2px
+	/* padding-right: 4px;
+	padding-left: 4px; */
+	/* border-radius: 2px */
 }
 
 .navigation_title:hover {
@@ -164,7 +173,7 @@ a:hover {
 	font-weight: bold;
 	/* padding-right: 4px;
 	padding-left: 4px; */
-	border-radius: 2px
+	/* border-radius: 2px */
 }
 
 nav {

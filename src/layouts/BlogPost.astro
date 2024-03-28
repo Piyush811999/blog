@@ -5,6 +5,7 @@ import Footer from "../components/Footer.astro";
 import ColorScript from "../components/ColorScript.astro";
 import Tags from "../components/Tags.astro";
 import getTags from "../scripts/getTags";
+import HeaderLink from "../components/HeaderLink.astro";
 
 const posts = await Astro.glob("../posts/*.md");
 const allTags = getTags(posts);
@@ -42,7 +43,7 @@ if (updated) {
 	<BaseHead title={title} description={description} />
 
 	<body>
-		<Header />
+		<Header hideNav={true} />
 		<main>
 			<article>
 				<!-- {heroImage && <img width={720} height={360} src={heroImage} alt="" />} -->
@@ -73,10 +74,15 @@ if (updated) {
 				</footer>
 				<hr /> <!-- Add this line -->
 				<br/>
-				<br/>
+				<!-- <br/> -->
+
+				<footer style="display: flex; justify-content: center; align-items: center;">
+					<a class="navigation_title" href="/posts">posts</HeaderLink>
+					<a class="navigation_title" href="/">about</HeaderLink>
+				</footer>
 			</article>
 		</main>
-		<Tags tags={allTags} all />
+		<!-- <Tags tags={allTags} all /> -->
 		<Footer />
 		<ColorScript />
 
