@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-    <img title="Site Icon" alt="Site favicon" src="../../public/assets/profile_photo.png" style="max-width: 200px;">
+    <img title="Site Icon" alt="Site favicon" src="../../public/assets/profile_photo.png" style="max-width: 200px; border-radius: 50%;">
 </div>
 
 # About me
@@ -19,7 +19,7 @@ This is my digital playground, I'll post about anything and everything that I fi
 [**Resume**](/PiyushMakwana_Resume_5thMar2024.pdf) 
 [**Email**](mailto:infopiyushmakwana@gmail.com) 
 [**Github**](https://github.com/Piyush811999)
-[**Instagram**(Inactive)]()
+[**Instagram**(Inactive)](https://www.instagram.com/piyush_makwana_99/)
 
 <hr>
 
@@ -28,6 +28,6 @@ This is my digital playground, I'll post about anything and everything that I fi
 <div style="text-align: center;">
 
 This blog is open source and can be found [here](https://github.com/Piyush811999/blog). \
-It's forked from [this blog.](https://github.com/cassidoo/blahg)
+It's forked from [this blog](https://github.com/cassidoo/blahg).
 
 </div>
