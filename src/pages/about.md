@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-    <img title="Site Icon" alt="Site favicon" src="../../public/assets/profile_photo.png" style="max-width: 200px; border-radius: 50%;">
+    <img title="Profile Photo" alt="Profile Photo" src="../../assets/profile_photo.png" style="max-width: 200px; border-radius: 50%;">
 </div>
 
 # About me
