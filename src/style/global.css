@@ -126,6 +126,15 @@ a {
 	border-radius: 2px
 }
 
+.website-header {
+	color: var(--black);
+	text-decoration: none;
+	/* background-color: var(--linkhighlight); */
+	padding-right: 4px;
+	padding-left: 4px;
+	border-radius: 2px
+}
+
 a:hover {
     background-color: var(--linkhover); /* Change to the color you want on hover */
 }
@@ -151,19 +160,20 @@ a:hover {
 .navigation_title {
 	color: var(--black);
 	text-decoration: none;
-	background-color: var(--lightgray);
-	padding-right: 4px;
-	padding-left: 4px;
-	border-radius: 2px
+	background-color: transparent;
+	/* padding-right: 4px;
+	padding-left: 4px; */
+	/* border-radius: 2px */
 }
 
 .navigation_title:hover {
 	color: var(--black);
 	text-decoration: none;
-	background-color: var(--darkgray);
+	background-color: transparent;
+	font-weight: bold;
 	/* padding-right: 4px;
 	padding-left: 4px; */
-	border-radius: 2px
+	/* border-radius: 2px */
 }
 
 nav {
@@ -335,6 +345,7 @@ ul li time {
 .website-header-title {
     /* font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif; */
     font-weight: 500;
+	text-align: center;
     -webkit-font-smoothing: antialiased;
     color: #fff;
     margin-bottom: 35px;

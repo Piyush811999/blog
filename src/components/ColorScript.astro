@@ -1,24 +1,73 @@
-<!-- <script is:inline>
-	let colors = ["#24d05a", "#eb4888", "#10a2f5", "#e9bc3f"];
+<script is:inline>
 
-	function getRandomColor() {
-		return colors[Math.floor(Math.random() * colors.length)];
-	}
+	let blink_face = ["0 ‿ 0","- ‿ -"]
 
-	function setRandomLinkColor() {
-		Array.from(document.getElementsByTagName("a")).forEach((e) => {
-			e.style.textDecorationColor = getRandomColor();
+
+	function setFaceWideOpen() {
+		Array.from(document.getElementsByClassName("website-header-title")).forEach((e) => {
+			e.textContent = "0 ‿ 0";
+			// console.log(face);
 		});
 	}
 
-	function setColorHoverListener() {
+	function setFaceBackToNormal() {
+		Array.from(document.getElementsByClassName("website-header-title")).forEach((e) => {
+			e.textContent = "^ ‿ ^";
+			// console.log(face);
+		});
+	}
+
+	function setFaceScared() {
+		Array.from(document.getElementsByClassName("website-header-title")).forEach((e) => {
+			e.textContent = "ಠ ‿ ಠ";
+			// console.log(face);
+		});
+	}
+	
+	function setFaceHoverListener() {
+		Array.from(document.getElementsByClassName("website-header-title")).forEach((e) => {
+			e.addEventListener("mouseover", setFaceScared);
+			e.addEventListener("mouseout", setFaceBackToNormal);
+		});
+	}
+
+	function setLinkHoverListener() {
 		Array.from(document.querySelectorAll("a, button")).forEach((e) => {
-			e.addEventListener("mouseover", setRandomLinkColor);
+			e.addEventListener("mouseover", setFaceWideOpen);
+			e.addEventListener("mouseout", setFaceBackToNormal);
 		});
+	}
+
+	let textElement = document.getElementsByClassName("website-header-title");
+
+	function changeText() {
+		// textElement.textContent = blink_face[1];
+		Array.from(textElement).forEach((e) => {
+			e.textContent = blink_face[Math.floor(Math.random() * blink_face.length)];
+		});
+		setTimeout(() => {
+			// textElement.textContent = blink_face[0];
+			Array.from(textElement).forEach((e) => {
+			e.textContent = blink_face[0];
+		});
+		}, 300); // Change back to the first entry after 500 milliseconds
 	}
 
 	(function () {
-		setRandomLinkColor();
-		setColorHoverListener();
+		let currentHref = new URL(window.location.href);
+		let afterBaseUrl = currentHref.pathname + currentHref.search + currentHref.hash;
+		console.log(afterBaseUrl);
+
+		if (afterBaseUrl !== "/") {
+			changeText();
+			setFaceHoverListener()
+			setInterval(changeText, Math.random() * 5000 + 2000);
+			
+		} else {
+			// setRandomLinkColor();
+			setLinkHoverListener();
+			setFaceHoverListener()
+		}
+		
 	})();
-</script> -->
+</script>
