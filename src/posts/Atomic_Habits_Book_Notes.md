@@ -4,7 +4,7 @@ title: "Notes on Atomic Habits"
 slug: book-notes-atomic-habits
 description: "My notes for the book Atomic Habits by James Clear"
 added: "Jan 01 2021 12:00"
-updated: "Mar 29 2024 19:22"
+updated: "Mar 29 2024 10:43pm"
 location: "Ajmer, Rajasthan, India"
 tags: [learning, book notes, Psychology, self-help]
 ---
