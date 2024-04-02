@@ -6,7 +6,7 @@ description: "How do I describe this?"
 added: "Mar 27 2024 19:22"
 updated: "Mar 27 2024 19:22"
 location: "Third Wave coffe, Banglore"
-tags: [technical, advice, events, learning, meta, work, personal, musings]
+tags: [something]
 ---
 
 Hello World!
