@@ -5,7 +5,7 @@
  */
 :root {
 	--white: #fff;
-	--transwhite: rgba(255, 255, 255, 0.7);
+	--transwhite: rgba(255, 255, 255, 0.8);
 	--moretranswhite: rgba(239, 239, 239, 0.1);
 	--black: #252525;
 	--transblack: rgba(37, 37, 37, 0.7);
@@ -126,15 +126,6 @@ a {
 	border-radius: 2px
 }
 
-.website-header {
-	color: var(--black);
-	text-decoration: none;
-	/* background-color: var(--linkhighlight); */
-	padding-right: 4px;
-	padding-left: 4px;
-	border-radius: 2px
-}
-
 a:hover {
     background-color: var(--linkhover); /* Change to the color you want on hover */
 }
@@ -180,14 +171,16 @@ nav {
 	position: sticky;
 	top: 0;
 	text-align: center;
-	background: var(--transwhite);
-	background-color: transparent;
-	-webkit-backdrop-filter: blur(1px);
-	backdrop-filter: blur(1px);
+	background: transparent;
+	background-color: var(--transwhite);
+	-webkit-backdrop-filter: blur(3px);
+	backdrop-filter: blur(3px);
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
 
 nav a {
-	margin: 25px 0;
+	margin: 10px 0;
 }
 nav a:not(:last-child) {
 	padding: 0 12px 0 0;
