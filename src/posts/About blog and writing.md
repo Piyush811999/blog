@@ -29,7 +29,7 @@ I've been wanting to start writing blogs since, 2019.
 I even posted this on Facebook. (Yes Facebook, please don't judge, It was necessary for college and all my friends were using it at the time.) 
 The purpose of this was to hold myself accountable by committing to the world.
 
-![](/public/assets/facebook_post_1stJan.png)
+![](/assets/facebook_post_1stJan.png)
 
 ### Why did I want to write a blog?
 * Because people around me were doing it.
@@ -63,7 +63,7 @@ So the first step that contributed towards this was improving my typing speed. I
 
 It **took me around 2 months to reach 65-70 words per minute (wpm)** consistently. I stopped practicing after that and my current typing speed of around 70 wpm does not act as a bottleneck towards anything, Although the average speaking speed is around [110-150 wpm](https://arc.net/l/quote/fqovasgq), I found 70 wpm to be faster than my brain thinking of the next sentence (In a proper way) 
 
-![Current typing speed (Best of 3 attempts)](/public/assets/typing_speed.png)
+![Current typing speed (Best of 3 attempts)](/assets/typing_speed.png)
 
 
 #### Other cool websites for learning and practicing typing
