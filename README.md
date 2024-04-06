@@ -19,8 +19,9 @@ All commands are run from the root of the project, from a terminal:
 | Command                          | Action                                                        |
 | :------------------------------- | :------------------------------------------------------------ |
 | `npm install`                    | Installs dependencies                                         |
-| `npm run dev`                    | Starts local dev server at `localhost:4321`                   |
+| `npm run astro dev`              | Starts local dev server at `localhost:4321`                   |
 
 ## ToDo
 - [ ] Dark Mode support (It's present in parent [blahg](https://github.com/cassidoo/blahg), but I broke it while making modifications)
 - [ ] A gallery page for all my Drawings, designs and photography stuff.
+- [ ] Links that referece something withing the blog should be of different color to those which reference something external
