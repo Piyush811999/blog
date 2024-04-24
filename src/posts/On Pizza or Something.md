@@ -9,6 +9,7 @@ location: Banglore
 tags:
   - personal
   - thoughts
+  - short
 ---
 I've been scrolling through Swiggy there are a lot of restaurants, but I can't find anything to eat. 
 
