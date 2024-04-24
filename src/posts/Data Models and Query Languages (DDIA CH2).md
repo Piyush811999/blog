@@ -13,7 +13,7 @@ tags:
   - book-notes
   - medium
 ---
-> Note: These notes are taken while reading chapter 2. of the book Designing Data-Intensive Applications, for more details please refer the book.
+> Note: These notes were taken while reading chapter 2. of the book Designing Data-Intensive Applications, for more details please refer the book.
 
 
 # Table of Content
