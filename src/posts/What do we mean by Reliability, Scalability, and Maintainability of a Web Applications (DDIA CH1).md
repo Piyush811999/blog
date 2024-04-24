@@ -5,6 +5,7 @@ slug: ddia-1-reliable-scalable-and-maintainable-applications
 description: Notes on chapter 1. of Designing Data-Intensive Applications.
 added: Apr 24 2024 15:09
 updated: Apr 24 2024 15:26
+location: Banglore
 tags:
   - technical
   - learning
