@@ -306,7 +306,7 @@ CREATE
 ```
 
 Creates
-![](/public/assets/sub-graph-of-graph-database.png)
+![](/assets/sub-graph-of-graph-database.png)
 
 Cypher query to find people who emigrated from the US to Europe
 ```cypher
