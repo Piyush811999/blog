@@ -5,6 +5,7 @@ slug: ddia-2-data-models-and-query-languages
 description: Notes on chapter 2. of Designing Data-Intensive Applications.
 added: Apr 24 2024 15:39
 updated: Apr 24 2024 15:47
+location: Banglore
 tags:
   - technical
   - learning
@@ -13,7 +14,7 @@ tags:
   - book-notes
   - medium
 ---
-> Note: These notes are taken while reading chapter 2. of the book Designing Data-Intensive Applications, for more details please refer the book.
+> Note: These notes were taken while reading chapter 2. of the book Designing Data-Intensive Applications, for more details please refer the book.
 
 
 # Table of Content
