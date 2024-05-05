@@ -15,7 +15,7 @@ I've been scrolling through Swiggy there are a lot of restaurants, but I can't f
 
 I've been scrolling through Netflix's library which has over 10k titles, but I can't find anything to watch.
 
-I've been scrolling through my game library there are 100's games at my fingertips, just 10 years ago 15 15-year-old old me would have gone nuts, I am living the future he dreamed of but there's just one problem, I can't find anything to play.
+I've been scrolling through my game library on my playstation there are 100's games at my fingertips, just 10 years ago 15-year-old me would have gone nuts, I am living the future he dreamed of but there's just one problem, I can't find anything to play.
 
 My to-do list has a lot of Items that could be done. But I don't want to.
 
