@@ -84,7 +84,7 @@ Rewrite
 * Had snacks (Other than fruit/nuts and other meals) 3 out of 30 days.
 
 ## Workouts
-* Worked out 23 times out of 31 this month.
+* Worked out 23 times out of 30 this month.
 	- Shoulders (S): 7 sessions
 	- Back and Biceps (B&B): 6 sessions
 	- Chest and Triceps (C&T): 6 sessions
