@@ -82,11 +82,9 @@ Rewrite
 ### Desert and Snacks
 * Had a medium to heavy Desert 15 out of 30 days
 * Had snacks (Other than fruit/nuts and other meals) 3 out of 30 days.
-### Alcohol intake
-* Apr 7: Wine (Mateus Rose 750ml/2, 11%alchol)
-* Apr 27: Cocktail at Buffalo Wild Wings, 750ml/4 Wine (Yellow tail red)
+
 ## Workouts
-* Worked out 23 times out of 31 this month.
+* Worked out 23 times out of 30 this month.
 	- Shoulders (S): 7 sessions
 	- Back and Biceps (B&B): 6 sessions
 	- Chest and Triceps (C&T): 6 sessions
