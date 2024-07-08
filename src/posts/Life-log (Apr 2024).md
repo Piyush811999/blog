@@ -50,7 +50,6 @@ Watched 27 episodes across 4 different shows
 - [Stellar Blade Demo](https://opencritic.com/game/16510/stellar-blade/reviews?page=1) | 1hr | 3.5/5
 - [Bloodborne](https://opencritic.com/game/76/bloodborne/reviews) | 4hr 26mins | 5/5
 
-Rewrite
 ## Music
 * Listened to music for **4067** minutes.
 * Top 3 artists by minutes played:
