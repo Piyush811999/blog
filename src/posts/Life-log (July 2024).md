@@ -5,7 +5,7 @@ slug: life-log-july-2024
 description: Life Log for July 2024
 added: Aug 05 2024 21:21
 updated: Aug 05 2024 21:21
-location: Ajmer (19 days) Bangalore ()
+location: Ajmer (19 days) Bangalore (remaining)
 tags:
   - personal
   - life-log
