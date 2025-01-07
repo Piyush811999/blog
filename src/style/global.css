@@ -127,6 +127,14 @@ a {
 }
 
 a:hover {
+    background-color: var(--darkgray);  /* Change to the color you want on hover */
+}
+
+a[href*='//']{
+    background-color: var(--linkhighlight);
+}
+
+a[href*='//']:hover {
     background-color: var(--linkhover); /* Change to the color you want on hover */
 }
 
@@ -234,6 +242,17 @@ content {
 }
 table {
 	width: 100%;
+	font-size: small;
+
+}
+td {
+	padding: 5px;
+    /* border: solid 1px lightgrey; */
+	background-color: rgb(232, 232, 232);
+}
+
+th {
+    border: solid 1px lightgrey;
 }
 img {
 	max-width: 100%;
@@ -382,3 +401,5 @@ ul li time {
 	}
 
 }
+
+

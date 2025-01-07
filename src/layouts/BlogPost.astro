@@ -63,12 +63,12 @@ if (updated) {
 					<ul>
 					<!-- <li>Date: <span class="text-light">{added}</span></li> -->
 					{updated ?
-						<li>Date: <span class="text-light">{added}</span></li><li>Updated: <span class="text-light">{updated}</span></li>
+						<li>Date added: <span class="text-light">{added}</span></li><li>Last updated date: <span class="text-light">{updated}</span></li>
 						:
 						<li>{added && <time>{added}</time>}</li>
 					}
 					<!-- <li>Time: <span class="text-light">{time}</span></li> -->
-					<li>Location: <span class="text-light">{location}</span></li>
+					<li>Publishing location: <span class="text-light">{location}</span></li>
 					<li><Tags tags={tags} blog_footer /></li>
 					</ul>
 				</footer>

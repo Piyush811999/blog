@@ -4,9 +4,11 @@
 
 # About me
 
-Hi! I’m Piyush Makwana, a Software Engineer currently working at Paytm in Bangalore. I graduated from IIT Roorkee with a B.Tech. in Computer Science & Engineering in 2021. I was born and raised in Ajmer.
+Hi! I’m Piyush Makwana, a tech enthusiast who loves creating stuff using technology. My interests include [writing, (over)thinking](tag/thoughts), [travelling](tag/travel-log), [drawing](https://www.instagram.com/piyush_makwana_99/), designing, video games, and recently, I’ve been enjoying watching movies in theaters and playing board games with my friends.
 
-I love technology and creating stuff with its help. I like drawing, designing, writing, thinking, playing video games, and recently, I’ve been enjoying watching movies in theaters and playing board games with my friends.
+I was previously a Senior Data Engineer ~~Software Engineer~~ at Paytm in Bangalore where I worked for 3.5 years. I graduated from IIT Roorkee with a B.Tech. in Computer Science & Engineering in 2021. I was born and raised in Ajmer, and I’ve lived in Kota (during high school), Roorkee (during college), and Bangalore (currently).
+
+
 
 # About this website
 
