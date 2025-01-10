@@ -11,24 +11,21 @@ import { SITE_TITLE, SITE_SUBTITLE } from "../config";
 					window.location.href = "/posts";
 				}
 			</script>
-			<h2 class="website-header-title" onclick="navigateToPosts()" style="cursor: pointer;">{SITE_SUBTITLE}</h2>
-			<p class="align-right">Piyush's Blog </p>
+			<div class="header-container">
+			<h2 class="website-header-icon" onclick="navigateToPosts()" style="cursor: pointer;">{SITE_SUBTITLE}</h2>
+			<h3 class="website-header-title">Piyush's Blog </h3>
+			</div>
 		</div>
 	</div>
 </header>
 {Astro.props.hideNav ? '' :
 <nav>
-    <HeaderLink class="navigation_title" href="/posts">posts</HeaderLink>
-    <HeaderLink class="navigation_title" href="/">about</HeaderLink>
+    <HeaderLink class="navigation_title" href="/">posts</HeaderLink>
+    <HeaderLink class="navigation_title" href="/about">about</HeaderLink>
 </nav>
 }
 <style>
-	h2 {
+	/* h2 {
 		margin: 0.5em 0;
-	}
-
-	.align-right {
-	font-size: xx-small;
-    text-align: center;
-	}
+	} */
 </style>

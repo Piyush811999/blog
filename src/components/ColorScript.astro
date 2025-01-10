@@ -4,28 +4,28 @@
 
 
 	function setFaceWideOpen() {
-		Array.from(document.getElementsByClassName("website-header-title")).forEach((e) => {
+		Array.from(document.getElementsByClassName("website-header-icon")).forEach((e) => {
 			e.textContent = "0 ‿ 0";
 			// console.log(face);
 		});
 	}
 
 	function setFaceBackToNormal() {
-		Array.from(document.getElementsByClassName("website-header-title")).forEach((e) => {
+		Array.from(document.getElementsByClassName("website-header-icon")).forEach((e) => {
 			e.textContent = "^ ‿ ^";
 			// console.log(face);
 		});
 	}
 
 	function setFaceScared() {
-		Array.from(document.getElementsByClassName("website-header-title")).forEach((e) => {
+		Array.from(document.getElementsByClassName("website-header-icon")).forEach((e) => {
 			e.textContent = "ಠ ‿ ಠ";
 			// console.log(face);
 		});
 	}
 	
 	function setFaceHoverListener() {
-		Array.from(document.getElementsByClassName("website-header-title")).forEach((e) => {
+		Array.from(document.getElementsByClassName("website-header-icon")).forEach((e) => {
 			e.addEventListener("mouseover", setFaceScared);
 			e.addEventListener("mouseout", setFaceBackToNormal);
 		});
@@ -38,7 +38,7 @@
 		});
 	}
 
-	let textElement = document.getElementsByClassName("website-header-title");
+	let textElement = document.getElementsByClassName("website-header-icon");
 
 	function changeText() {
 		// textElement.textContent = blink_face[1];

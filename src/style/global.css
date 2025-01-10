@@ -156,6 +156,7 @@ a[href*='//']:hover {
 	border-radius: 2px
 }
 
+
 .navigation_title {
 	color: var(--black);
 	text-decoration: none;
@@ -178,7 +179,7 @@ a[href*='//']:hover {
 nav {
 	position: sticky;
 	top: 0;
-	text-align: center;
+	text-align: left;
 	background: transparent;
 	background-color: var(--transwhite);
 	-webkit-backdrop-filter: blur(3px);
@@ -190,9 +191,9 @@ nav {
 nav a {
 	margin: 10px 0;
 }
-nav a:not(:last-child) {
+/* nav a:not(:last-child) {
 	padding: 0 12px 0 0;
-}
+} */
 
 hr {
 	border-top: 1px solid var(--gray);
@@ -296,8 +297,15 @@ h3 {
 .header-section {
 	display: flex;
 	align-items: center;
-	justify-content: center;
-	flex-wrap: wrap;
+	justify-content: space-between;
+	/* flex-wrap: wrap; */
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+	/* margin-bottom: 35px; */
 }
 
 .header-frame {
@@ -354,19 +362,30 @@ ul li time {
     font-size: 20px;
 }
 
-.website-header-title {
+.website-header-icon {
     /* font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif; */
     font-weight: 500;
 	text-align: center;
     -webkit-font-smoothing: antialiased;
     color: #fff;
-    margin-bottom: 35px;
+    /* margin-bottom: 35px; */
+	/* padding-bottom: 35px; */
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 5px;
     text-decoration: none;
 	background-color: #053B50;
 	border-radius: 10px;
 	padding: 10px;
 }
 
+.website-header-title {
+	/* font-size: xx-small; */
+	color: #053B50;
+	margin-left: 8px;
+    text-align: center;
+	}
+	
 .website-header-subtitle {
 	font-weight: 100;
     -webkit-font-smoothing: antialiased;

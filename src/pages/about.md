@@ -1,8 +1,10 @@
+
+
+# About me
+
 <div style="display: flex; justify-content: center;">
     <img title="Profile Photo" alt="Profile Photo" src="../../assets/profile_photo.png" style="max-width: 200px; border-radius: 50%;">
 </div>
-
-# About me
 
 Hi! I’m Piyush Makwana, a tech enthusiast who loves creating stuff using technology. My interests include [writing, (over)thinking](tag/thoughts), [travelling](tag/travel-log), [drawing](https://www.instagram.com/piyush_makwana_99/), designing, video games, and recently, I’ve been enjoying watching movies in theaters and playing board games with my friends.
 
