@@ -6,19 +6,19 @@ import HomePosts from "../components/HomePosts.astro";
 import ColorScript from "../components/ColorScript.astro";
 import Tags from "../components/Tags.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
-import About_MD from "./about.md";
+import About_MD from "./about_md.md";
 import getTags from "../scripts/getTags";
 
-const posts = await Astro.glob("../posts/*.md");
-
-const tags = getTags(posts);
+// const posts = await Astro.glob("../posts/*.md");
+// const tags = getTags(posts);
 ---
 
 <!doctype html>
 <html lang="en-us">
 	<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	<body>
-		<Header title={"Piyush Makwana"} />
+		<!-- <Header title={"Piyush Makwana"} /> -->
+		<Header />
 		<main>
 			<About_MD />
 
