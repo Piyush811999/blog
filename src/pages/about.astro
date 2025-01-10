@@ -6,7 +6,7 @@ import HomePosts from "../components/HomePosts.astro";
 import ColorScript from "../components/ColorScript.astro";
 import Tags from "../components/Tags.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
-import About from "./about.md";
+import About_MD from "./about.md";
 import getTags from "../scripts/getTags";
 
 const posts = await Astro.glob("../posts/*.md");
@@ -20,7 +20,7 @@ const tags = getTags(posts);
 	<body>
 		<Header title={"Piyush Makwana"} />
 		<main>
-			<About />
+			<About_MD />
 
 			<br />
 		</main>
