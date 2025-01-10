@@ -5,7 +5,6 @@ import Footer from "../components/Footer.astro";
 import ColorScript from "../components/ColorScript.astro";
 import Tags from "../components/Tags.astro";
 import getTags from "../scripts/getTags";
-import HeaderLink from "../components/HeaderLink.astro";
 
 const posts = await Astro.glob("../posts/*.md");
 const allTags = getTags(posts);
@@ -77,8 +76,8 @@ if (updated) {
 				<!-- <br/> -->
 
 				<footer style="display: flex; justify-content: center; align-items: center;">
-					<a class="navigation_title" href="/posts">posts</HeaderLink>
-					<a class="navigation_title" href="/">about</HeaderLink>
+					<a class="navigation_title" href="/">posts</HeaderLink>
+					<a class="navigation_title" href="/about">about</HeaderLink>
 				</footer>
 			</article>
 		</main>
