@@ -244,7 +244,8 @@ content {
 table {
 	width: 100%;
 	font-size: small;
-
+	display: block; /* Add this line to make the table block-level */
+    overflow-x: auto; /* Add this line to enable horizontal scrolling */
 }
 td {
 	padding: 5px;
