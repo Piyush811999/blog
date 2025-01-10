@@ -8,9 +8,9 @@ export default defineConfig({
   site: "https://piyushmakwana.in/",
   base: "/",
   integrations: [sitemap(), mdx()],
-  redirects: [
-    { from: '/posts', to: '/' }
-  ],
+  redirects: {
+    '/posts': '/'
+  },
   markdown: {
     shikiConfig: {
       theme: "material-theme-darker",
