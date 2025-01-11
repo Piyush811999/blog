@@ -5,6 +5,7 @@ slug: media-recap-2024
 description: What I Watched, Played, and Read in 2024
 added: Jan 11 2025 14:50
 updated: Jan 11 2025 14:50
+location: Ajmer
 tags:
   - life-log
   - personal
