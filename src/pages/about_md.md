@@ -17,19 +17,15 @@ I was previously a Senior Data Engineer ~~Software Engineer~~ at Paytm in Bangal
 This is my digital playground, I'll post about anything and everything that I find interesting here. 
 
 <br>
-<hr>
+<br>
+
+<div style="text-align: center;">
 
 [**LinkedIn**](https://www.linkedin.com/in/piyushmakwana99/) 
 [**Resume**](/PiyushMakwana_Resume_5thMar2024.pdf) 
 [**Email**](mailto:infopiyushmakwana@gmail.com) 
 [**Github**](https://github.com/Piyush811999)
-[**Instagram**(Inactive)](https://www.instagram.com/piyush_makwana_99/)
 
-<hr>
-
-<br>
-
-<div style="text-align: center;">
 
 This blog is open source and can be found [here](https://github.com/Piyush811999/blog). \
 It's forked from [this blog](https://github.com/cassidoo/blahg).

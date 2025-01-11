@@ -3,7 +3,7 @@ layout: ../layouts/BlogPost.astro
 title: Maharashtra (Pune and nearby cities) (Travel-log)
 slug: travel-log-maharastra
 description: Trip to Pune and nearby cities
-added: Apr 06 2024 15:07
+added: Dec 04 2024 7:51
 updated: Dec 04 2024 7:51
 location: Bangalore
 tags:

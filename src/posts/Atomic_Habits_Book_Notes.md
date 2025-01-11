@@ -3,7 +3,7 @@ layout: "../layouts/BlogPost.astro"
 title: "Notes on Atomic Habits"
 slug: book-notes-atomic-habits
 description: "My notes for the book Atomic Habits by James Clear"
-added: "Jan 01 2021 12:00"
+added: "Mar 29 2024 10:43 PM"
 updated: "Mar 29 2024 10:43 PM"
 location: "Ajmer | Banglore"
 tags: [learning, book-notes, psychology, self-help, long]
