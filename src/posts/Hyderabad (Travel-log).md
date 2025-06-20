@@ -5,6 +5,7 @@ slug: hyderabad-travel-log
 description: Two day trip to Hyderabad
 added: Jun 18 2025 23:46
 updated: Jun 18 2025 23:47
+location: Ajmer
 tags:
   - travel-log
 
