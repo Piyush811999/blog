@@ -4,7 +4,7 @@ title: Munnar (Travel-log)
 slug: travel-log-munnar
 description: 2 day trip to Munnar
 added: Jun 21 2025 01:04
-updated: Jun 21 2025 01:04
+updated: Jul 29 2025 23:07
 location: Delhi
 tags:
   - travel-log
@@ -45,5 +45,5 @@ Food-wise, we didn't have such a great experience; everything we had there was e
 * Had "Kappa Biryani" at a Dhaba which didn't taste good; eventually, we ended up having a plain omelette. 
 
 # Review
-Despite me giving low ratings to lots of individual places above, Munnar was well worth the visit. It's a beautiful hill station, and most of the beauty lies in the scenery (P.S. Also thanks to my company for making the view even better). Just walking around our hotel area was pleasing in itself. If I ever visit this place again, I would just get a hotel at a scenic location and relax rather than sightseeing all the time. But I would definitely visit [Punarjani Traditional Village](https://maps.app.goo.gl/aMgu3nzCCGhNR4sw8), and maybe even one of the adventure parks.
+Despite me giving low ratings to lots of individual places above, Munnar was well worth the visit. It's a beautiful hill station, and most of the beauty lies in the scenery. Just walking around our hotel area was pleasing in itself. If I ever visit this place again, I would just get a hotel at a scenic location and relax rather than sightseeing all the time. But I would definitely visit [Punarjani Traditional Village](https://maps.app.goo.gl/aMgu3nzCCGhNR4sw8), and maybe even one of the adventure parks.
 
