@@ -1,23 +1,23 @@
 export default function getTags(posts) {
-	// Get tags from all posts
-	const allTags = posts
-		.map((post) => {
-			const postTags = post.frontmatter.tags;
-			let allTags = [];
+    // Create a tag count dictionary
+    const tagCount = {};
 
-			if (postTags?.length > 0) {
-				postTags.forEach((tag) => {
-					if (allTags?.indexOf(tag) === -1) {
-						allTags.push(tag);
-					}
-				});
-			}
-			return allTags;
-		})
-		.flat(1);
+    posts.forEach((post) => {
+        const postTags = post.frontmatter.tags;
+        if (postTags?.length > 0) {
+            postTags.forEach((tag) => {
+                tagCount[tag] = (tagCount[tag] || 0) + 1;
+            });
+        }
+    });
 
-	// Make the tags unique
-	let tags = [...new Set(allTags)];
+    // Sort tags by count in descending order and return as an array of objects
+    const sortedTags = Object.entries(tagCount)
+        .sort((a, b) => b[1] - a[1])
+        .reduce((acc, [tag, count]) => {
+            acc[tag] = count;
+            return acc;
+        }, {});
 
-	return tags;
+    return sortedTags;
 }
