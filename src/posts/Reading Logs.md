@@ -3,8 +3,8 @@ layout: ../layouts/BlogPost.astro
 title: Reading Logs
 slug: reading-logs-2025
 description: Attempting to achieve my reading goal for the year 2025
-added: Sep 02 2025 23:30
-updated: Sep 02 2025 23:30
+added: Sep 03 2025 00:08
+updated: Sep 03 2025 00:08
 tags:
   - reading
 ---

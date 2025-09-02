@@ -14,7 +14,9 @@ I was previously a Senior Data Engineer ~~Software Engineer~~ at Paytm in Bangal
 
 # About this website
 
-This is my digital playground, I'll post about anything and everything that I find interesting here. 
+This is my primary and currently only active online outlet, I write about my experiences and things that I find interesting here. <br>
+
+All the words in this blog are typed by me, LLMs/Writing-Tools are only used for correcting spelling mistakes and adding missing punctuations.
 
 <br>
 <br>
