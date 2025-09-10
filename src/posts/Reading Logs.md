@@ -4,9 +4,10 @@ title: Reading Logs
 slug: reading-logs-2025
 description: Attempting to achieve my reading goal for the year 2025
 added: Sep 03 2025 00:08
-updated: Sep 03 2025 00:08
+updated: Sep 10 2025 12:16
 tags:
   - reading
+location: Bangalore
 ---
 # Prologue
 
@@ -65,4 +66,14 @@ I have to keep in mind that the number of pages from the above calculation is no
 --- 
 # Logs
 
-To be updated...
+To be updated every Wednesday. 
+### Week-1 
+Started reading [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead), read until page 246 (+Intro) (66%) across 5 days (I was on a 4-day trip, 2 of the days I read during flight). It's sequel to [Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) which I had just recently finished, I am enjoying it very much (more than its predecessor).  
+
+* Day-1 (Sept-3): Started reading Speaker for the Dead, read the first 50 pages (Introduction, Prologue, Chapter-1)  
+* Day-2 (Sept-4): Read 53 pages from Speaker for the Dead | Ch-2,3,4,5  
+* Day-3 (Sept-5): Read pages 84-146 | 63 pages | Ch-6,7,8, on Ch-9  
+* Day-4 (Sept-6): 147-183 | 36 pages | Ch-9,10,11  
+* Day-7 (Sep-9): 184-246 | 63 pages | Ch-12,13,14  
+
+
