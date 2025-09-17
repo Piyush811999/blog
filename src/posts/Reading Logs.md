@@ -4,7 +4,7 @@ title: Reading Logs
 slug: reading-logs-2025
 description: Attempting to achieve my reading goal for the year 2025
 added: Sep 03 2025 00:08
-updated: Sep 10 2025 12:16
+updated: Sep 17 2025 10:48
 tags:
   - reading
 location: Bangalore
@@ -70,10 +70,24 @@ To be updated every Wednesday.
 ### Week-1 
 Started reading [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead), read until page 246 (+Intro) (66%) across 5 days (I was on a 4-day trip, 2 of the days I read during flight). It's sequel to [Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) which I had just recently finished, I am enjoying it very much (more than its predecessor).  
 
-* Day-1 (Sept-3): Started reading Speaker for the Dead, read the first 50 pages (Introduction, Prologue, Chapter-1)  
-* Day-2 (Sept-4): Read 53 pages from Speaker for the Dead | Ch-2,3,4,5  
-* Day-3 (Sept-5): Read pages 84-146 | 63 pages | Ch-6,7,8, on Ch-9  
-* Day-4 (Sept-6): 147-183 | 36 pages | Ch-9,10,11  
-* Day-7 (Sep-9): 184-246 | 63 pages | Ch-12,13,14  
+| Date       | Book/s                                                                                | Pages Read | Chapters Read |
+| ---------- | ------------------------------------------------------------------------------------- | ---------- | ------------- |
+| 03-09-2025 | [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) | 50         | Intro, 1      |
+| 04-09-2025 | [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) | 53         | 2,3,4,5       |
+| 05-09-2025 | [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) | 63         | 6,7,8         |
+| 06-09-2025 | [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) | 36         | 9,10,11       |
+| 09-09-2025 | [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) | 63         | 12,13,14      |
 
+### Week-2
+Finished reading [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) on the morning of Day-3 of this week. I loved it, I would rate it 5/5. Started reading [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale) (About time it has been on my shelf for more than a year perhaps even two) and [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) (I've always wanted to read it but it's length seemed daunting, it's around 800-900 pages long, next month I am planning to view a play adaptation for the same that gave me reason to start this and also gave me a deadline to finish it by and hoping to finish it before watching the play.)
+Later half of this week I didn't read as much as I'd like to. I think it takes some time to settle into a new novel and I've started two. If it's get's daunting I think I'll just focus on the one I like more first. 
 
+| Date       | Book/s                                                                                                                                                                                               | Pages/Percent Read | Chapters Read |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- |
+| 10-09-2025 | [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead)                                                                                                                | 30                 | 15            |
+| 11-09-2025 | [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead)                                                                                                                | 50                 | 16            |
+| 12-09-2025 | [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead)(Finished),<br>[The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale)(Started) | 56, 20             | 17,18 \| 1-3  |
+| 13-09-2025 | [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale)                                                                                                              | 27                 | 4-8           |
+| 14-09-2025 | [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale)                                                                                                              | 4                  | 9             |
+| 15-09-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                                                                                                            | -                  | Introduction  |
+| 16-09-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                                                                                                            | upto 2%            | Introduction  |
