@@ -4,7 +4,7 @@ title: Reading Logs
 slug: reading-logs-2025
 description: Attempting to achieve my reading goal for the year 2025
 added: Sep 03 2025 00:08
-updated: Sep 17 2025 10:48
+updated: Sep 25 2025 12:00
 tags:
   - reading
 location: Bangalore
@@ -79,7 +79,7 @@ Started reading [Speaker for the Dead](https://www.goodreads.com/book/show/7967.
 | 09-09-2025 | [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) | 63         | 12,13,14      |
 
 ### Week-2
-Finished reading [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) on the morning of Day-3 of this week. I loved it, I would rate it 5/5. Started reading [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale) (About time it has been on my shelf for more than a year perhaps even two) and [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) (I've always wanted to read it but it's length seemed daunting, it's around 800-900 pages long, next month I am planning to view a play adaptation for the same that gave me reason to start this and also gave me a deadline to finish it by and hoping to finish it before watching the play.)
+Finished reading [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) on the morning of Day-3 of this week. I loved it, I would rate it 5/5. Started reading [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale) (About time, it has been on my shelf for more than a year perhaps even two) and [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) (I've always wanted to read it but it's length seemed daunting, it's around 800-900 pages long, next month I am planning to view a play adaptation for the same that gave me reason to start this and also gave me a deadline to finish it by and hoping to finish it before watching the play.)
 Later half of this week I didn't read as much as I'd like to. I think it takes some time to settle into a new novel and I've started two. If it's get's daunting I think I'll just focus on the one I like more first. 
 
 | Date       | Book/s                                                                                                                                                                                               | Pages/Percent Read | Chapters Read |
@@ -91,3 +91,16 @@ Later half of this week I didn't read as much as I'd like to. I think it takes s
 | 14-09-2025 | [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale)                                                                                                              | 4                  | 9             |
 | 15-09-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                                                                                                            | -                  | Introduction  |
 | 16-09-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                                                                                                            | upto 2%            | Introduction  |
+
+### Week-3
+I wasn't very disciplined with my readings or anything else this week, even though I am really enjoying reading The Brothers Karamazov and am thinking about it a lot, but I've noticed that I don't have the habit of just picking it up and reading a chapter, opening youtube or browsing reddit is much more easier even though they don't bring as much satisfaction to my life.
+
+| Date       | Book/s                                                                                    | Pages/Percent Read | Chapters Read                  |
+| ---------- | ----------------------------------------------------------------------------------------- | ------------------ | ------------------------------ |
+| 17-09-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 9%            | Book-1 (Ch1-5), Book-2 (Ch1-4) |
+| 18-09-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 12%           | Book-2 (Ch5-7)                 |
+| 19-09-2025 |                                                                                           |                    |                                |
+| 20-09-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 14%           | Book-2 (Ch8), Book-3 (Ch1,2)   |
+| 21-09-2025 |                                                                                           |                    |                                |
+| 22-09-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 15%           | Book-3 (Ch-3)                  |
+| 23-09-2025 |                                                                                           |                    |                                |
