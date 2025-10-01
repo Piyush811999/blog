@@ -4,7 +4,7 @@ title: Reading Logs
 slug: reading-logs-2025
 description: Attempting to achieve my reading goal for the year 2025
 added: Sep 03 2025 00:08
-updated: Sep 25 2025 12:00
+updated: Oct 01 2025 15:17
 tags:
   - reading
 location: Bangalore
@@ -68,7 +68,7 @@ I have to keep in mind that the number of pages from the above calculation is no
 
 To be updated every Wednesday. 
 ### Week-1 
-Started reading [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead), read until page 246 (+Intro) (66%) across 5 days (I was on a 4-day trip, 2 of the days I read during flight). It's sequel to [Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) which I had just recently finished, I am enjoying it very much (more than its predecessor).  
+Started reading [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead), read until page 246 (+Intro) (66%) across 5 days (I was on a 4-day trip, 2 of the days I read during the flight). It’s a sequel to [Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) which I had just recently finished. I am enjoying it very much (more than its predecessor).   
 
 | Date       | Book/s                                                                                | Pages Read | Chapters Read |
 | ---------- | ------------------------------------------------------------------------------------- | ---------- | ------------- |
@@ -79,8 +79,8 @@ Started reading [Speaker for the Dead](https://www.goodreads.com/book/show/7967.
 | 09-09-2025 | [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) | 63         | 12,13,14      |
 
 ### Week-2
-Finished reading [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) on the morning of Day-3 of this week. I loved it, I would rate it 5/5. Started reading [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale) (About time, it has been on my shelf for more than a year perhaps even two) and [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) (I've always wanted to read it but it's length seemed daunting, it's around 800-900 pages long, next month I am planning to view a play adaptation for the same that gave me reason to start this and also gave me a deadline to finish it by and hoping to finish it before watching the play.)
-Later half of this week I didn't read as much as I'd like to. I think it takes some time to settle into a new novel and I've started two. If it's get's daunting I think I'll just focus on the one I like more first. 
+Finished reading [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) on the morning of Day 3 of this week. I loved it. I would rate it 5/5. Started reading [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale) (About time. It has been on my shelf for more than a year, perhaps even two). And [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) (I've always wanted to read it, but its length seemed daunting. It’s around 800-900 pages long. Next month, I am planning to view a play adaptation of the same that gave me reason to start this and also gave me a deadline to finish it by, hoping to finish it before watching the play.)
+Later half of this week, I didn't read as much as I'd like to. I think it takes some time to settle into a new novel, and I've started two. If it gets daunting, I think I'll just focus on the one I like more first. 
 
 | Date       | Book/s                                                                                                                                                                                               | Pages/Percent Read | Chapters Read |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- |
@@ -89,11 +89,11 @@ Later half of this week I didn't read as much as I'd like to. I think it takes s
 | 12-09-2025 | [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead)(Finished),<br>[The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale)(Started) | 56, 20             | 17,18 \| 1-3  |
 | 13-09-2025 | [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale)                                                                                                              | 27                 | 4-8           |
 | 14-09-2025 | [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale)                                                                                                              | 4                  | 9             |
-| 15-09-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                                                                                                            | -                  | Introduction  |
+| 15-09-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)(Started)                                                                                                   | -                  | Introduction  |
 | 16-09-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                                                                                                            | upto 2%            | Introduction  |
 
 ### Week-3
-I wasn't very disciplined with my readings or anything else this week, even though I am really enjoying reading The Brothers Karamazov and am thinking about it a lot, but I've noticed that I don't have the habit of just picking it up and reading a chapter, opening youtube or browsing reddit is much more easier even though they don't bring as much satisfaction to my life.
+I wasn't very disciplined with my readings or anything else this week, even though I am really enjoying reading The Brothers Karamazov and am thinking about it a lot, but I've noticed that I don't have the habit of just picking it up and reading a chapter. Opening YouTube or browsing Reddit is much more easy, even though they don't bring as much satisfaction to my life.
 
 | Date       | Book/s                                                                                    | Pages/Percent Read | Chapters Read                  |
 | ---------- | ----------------------------------------------------------------------------------------- | ------------------ | ------------------------------ |
@@ -104,3 +104,17 @@ I wasn't very disciplined with my readings or anything else this week, even thou
 | 21-09-2025 |                                                                                           |                    |                                |
 | 22-09-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 15%           | Book-3 (Ch-3)                  |
 | 23-09-2025 |                                                                                           |                    |                                |
+
+### Week-4
+Stated reading [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running) by Haruki Murakami on the 25th. I've read and loved three of Murakami's novels (I also listened to this audiobook some year back but never finished it), and recently I've been running regularly and ran my first half marathon. This seems like a perfect time to pick it up. (Also, it’s small and easy to read, which I could really use right now.) I almost finished reading it.
+This week, I regained my consistency for reading, which I had fumbled last week, hoping to continue this next week also.
+
+| Date       | Book/s                                                                                                                                          | Pages/Percent Read |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| 24-09-2025 |                                                                                                                                                 |                    |
+| 25-09-2025 | [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)(Started) | upto 27%           |
+| 26-09-2025 | [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)          | upto 42%           |
+| 27-09-2025 | [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)          | upto 48%           |
+| 28-09-2025 | [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)          | upto 54%           |
+| 29-09-2025 | [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)          | upto 67%           |
+| 30-09-2025 | [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)          | upto 91%           |
