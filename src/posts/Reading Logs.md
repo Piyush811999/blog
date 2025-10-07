@@ -4,7 +4,7 @@ title: Reading Logs
 slug: reading-logs-2025
 description: Attempting to achieve my reading goal for the year 2025
 added: Sep 03 2025 00:08
-updated: Oct 01 2025 15:17
+updated: Oct 08 2025 00:19
 tags:
   - reading
 location: Bangalore
@@ -118,3 +118,17 @@ This week, I regained my consistency for reading, which I had fumbled last week,
 | 28-09-2025 | [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)          | upto 54%           |
 | 29-09-2025 | [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)          | upto 67%           |
 | 30-09-2025 | [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)          | upto 91%           |
+
+### Week-5
+Finished reading [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running). 
+Continued reading [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov). 
+
+| Date       | Book/s                                                                                                                                 | Pages/Percent Read | Chapters Read         |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------- |
+| 01-10-2025 | [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running) | Finished           |                       |
+| 02-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                                              | upto 15%           | Book-3 (Ch-4)         |
+| 03-10-2025 |                                                                                                                                        |                    |                       |
+| 04-10-2025 |                                                                                                                                        |                    |                       |
+| 05-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                                              | upto 18%           | Book-3 (Ch-5,6,7,8)   |
+| 06-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                                              | upto 21%           | Book-3 (Ch-9,10,11)   |
+| 07-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                                              | upto 25%           | Book-4 (Ch-1,2,3,4,5) |
