@@ -4,7 +4,7 @@ title: Reading Logs
 slug: reading-logs-2025
 description: Attempting to achieve my reading goal for the year 2025
 added: Sep 03 2025 00:08
-updated: Oct 08 2025 00:19
+updated: Oct 15 2025 00:38
 tags:
   - reading
 location: Bangalore
@@ -132,3 +132,18 @@ Continued reading [The Brothers Karamazov](https://www.goodreads.com/book/show/4
 | 05-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                                              | upto 18%           | Book-3 (Ch-5,6,7,8)   |
 | 06-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                                              | upto 21%           | Book-3 (Ch-9,10,11)   |
 | 07-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                                              | upto 25%           | Book-4 (Ch-1,2,3,4,5) |
+
+### Week-6
+Continuing reading [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) though not with consistency as I would have hoped. The reason for that is I suspect the way my mind works whenever I think about starting reading, I would look up the length of the chapter and number of chapters remaining in the book, I set a lofty goal and then I procrastinate. 
+I know what I should do is just read just a bit for lots of bits throughout the day but my mind refuses to work this way. It’s either sit down for a few hours and read or nothing. I should work on this. <br>
+Regardless, I am enjoying this book a lot and I don't want to rush and I want to give it the time it deserves. I am taking notes (summaries of chapters) which I hadn't needed to refer to so far (perhaps because once you write it down you also commit it to memory). 
+
+| Date       | Book/s                                                                                    | Pages/Percent Read | Chapters Read                    |
+| ---------- | ----------------------------------------------------------------------------------------- | ------------------ | -------------------------------- |
+| 08-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 29%           | Book-4 (Ch-6,7), Book-5 (Ch-1,2) |
+| 09-10-2025 |                                                                                           |                    |                                  |
+| 10-10-2025 |                                                                                           |                    |                                  |
+| 11-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 33%           | Book-5 (ch-3,4)                  |
+| 12-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 36%           | Book-5 (ch-5,6,7), Book-6 (Ch-1) |
+| 13-10-2025 |                                                                                           |                    |                                  |
+| 14-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 39%           | Book-6 (Ch-2)                    |
