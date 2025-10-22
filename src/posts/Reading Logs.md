@@ -4,7 +4,7 @@ title: Reading Logs
 slug: reading-logs-2025
 description: Attempting to achieve my reading goal for the year 2025
 added: Sep 03 2025 00:08
-updated: Oct 15 2025 00:38
+updated: Oct 22 2025 11:39
 tags:
   - reading
 location: Bangalore
@@ -147,3 +147,17 @@ Regardless, I am enjoying this book a lot and I don't want to rush and I want to
 | 12-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 36%           | Book-5 (ch-5,6,7), Book-6 (Ch-1) |
 | 13-10-2025 |                                                                                           |                    |                                  |
 | 14-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 39%           | Book-6 (Ch-2)                    |
+
+### Week-7
+Happy with the consistency this week. 
+I started reading [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) it's a bit tough to read in the sense that's Philosophical book and If I don't write my understanding and thoughts alongside reading it, reading it would be pointless. 
+
+| Date       | Book/s                                                                                           | Pages/Percent Read | Chapters Read                           |
+| ---------- | ------------------------------------------------------------------------------------------------ | ------------------ | --------------------------------------- |
+| 15-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)        | upto 43%           | Book-6 (Ch-3), Book-7(Ch-1,2)           |
+| 16-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)        | upto 47%           | Book-7 (Ch-3,4), Book-8 (Ch-1,2)        |
+| 17-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)        | upto 54%           | Book-8 (Ch-3,4,5,6,7)                   |
+| 18-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)        | upto 55%           | Book-8 (Ch-8)                           |
+| 19-10-2025 | [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) (Started) | upto 9%            |                                         |
+| 20-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)        | upto 59%           | Book-9 (Ch-1,2,3,4)                     |
+| 21-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)        | upto 65%           | Book-9 (Ch-5,6,7,8,9), Book-10 (Ch-1,2) |
