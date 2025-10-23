@@ -7,9 +7,7 @@ added: Aug 05 2024 21:21
 updated: Aug 05 2024 21:21
 location: Ajmer (19 days) Bangalore (remaining)
 tags:
-  - personal
   - life-log
-  - data
 ---
 # Summary
 - [Media](#media-consumption)

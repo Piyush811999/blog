@@ -8,7 +8,6 @@ updated: Jan 11 2025 14:50
 location: Ajmer
 tags:
   - life-log
-  - personal
   - thoughts
 ---
 My favorite movies, books, tv shows, video games, and music this year I've watched in 2024, along with the complete list of media (not including music, of course), I've consumed this year.

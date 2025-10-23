@@ -150,7 +150,7 @@ Regardless, I am enjoying this book a lot and I don't want to rush and I want to
 
 ### Week-7
 Happy with the consistency this week. 
-I started reading [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) it's a bit tough to read in the sense that's Philosophical book and If I don't write my understanding and thoughts alongside reading it, reading it would be pointless. 
+I started reading [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) it's a bit tough to read in the sense that it is a Philosophical book and If I don't write my understanding and thoughts alongside reading it, reading it would be pointless. 
 
 | Date       | Book/s                                                                                           | Pages/Percent Read | Chapters Read                           |
 | ---------- | ------------------------------------------------------------------------------------------------ | ------------------ | --------------------------------------- |

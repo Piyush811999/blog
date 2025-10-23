@@ -6,9 +6,7 @@ description: Life Log for April 2024
 added: May 05 2024 18:47
 updated: May 05 2024 18:47
 tags:
-  - life-log
   - personal
-  - data
 location: Bangalore
 ---
 

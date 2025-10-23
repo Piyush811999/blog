@@ -6,9 +6,7 @@ description: Life Log for May 2024
 added: Jul 09 2024 00:50
 updated: Jul 09 2024 00:50
 tags:
-  - personal
   - life-log
-  - data
 location: Bangalore (25 days), Ajmer (6 days)
 ---
 

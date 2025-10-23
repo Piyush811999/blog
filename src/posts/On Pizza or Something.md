@@ -7,9 +7,7 @@ added: Apr 24 2024 21:24
 updated: Apr 24 2024 23:52
 location: Banglore
 tags:
-  - personal
   - thoughts
-  - short
 ---
 I've been scrolling through Swiggy there are a lot of restaurants, but I can't find anything to eat. 
 

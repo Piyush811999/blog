@@ -6,7 +6,7 @@ description: "Things that lead to this blog"
 added: "Apr 02 2024 20:01"
 updated: "Apr 03 2024 01:30"
 location: Banglore
-tags: [personal, learning, reflection, thoughts, medium]
+tags: [reflection, thoughts]
 ---
 - [There Was An (Failed)Idea.](#there-was-an-failedidea)
   - [Why did I want to write a blog?](#why-did-i-want-to-write-a-blog)

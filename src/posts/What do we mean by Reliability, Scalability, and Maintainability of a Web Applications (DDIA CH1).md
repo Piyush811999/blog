@@ -7,12 +7,9 @@ added: Apr 24 2024 15:09
 updated: Apr 24 2024 15:26
 location: Banglore
 tags:
-  - technical
-  - learning
   - software-engineering
   - ddia
   - book-notes
-  - medium
 ---
 > Note: These notes were taken while reading chapter 1. of the book Designing Data-Intensive Applications, for more details please refer the book.
 

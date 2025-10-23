@@ -6,7 +6,7 @@ description: "My notes for the book Atomic Habits by James Clear"
 added: "Mar 29 2024 10:43 PM"
 updated: "Mar 29 2024 10:43 PM"
 location: "Ajmer | Banglore"
-tags: [learning, book-notes, psychology, self-help, long]
+tags: [book-notes, psychology, self-help]
 ---
 
 > **Disclaimer:** These are notes from the book, intended for those who have already read the original work. If you haven't read the book, I highly recommend doing so to fully understand and appreciate the concepts discussed. These notes are meant to refresh, not replace, the insights from "Atomic Habits" by James Clear.

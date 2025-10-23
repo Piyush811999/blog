@@ -6,9 +6,7 @@ description: "Life log for June 2024"
 added: Jul 09 2024 01:26
 updated: Jul 09 2024 01:26
 tags:
-  - personal
   - life-log
-  - data
 location: Ajmer
 ---
 
