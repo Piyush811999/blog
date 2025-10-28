@@ -4,7 +4,7 @@ title: Reading Logs
 slug: reading-logs-2025
 description: Attempting to achieve my reading goal for the year 2025
 added: Sep 03 2025 00:08
-updated: Oct 22 2025 11:39
+updated: Oct 29 2025 00:21
 tags:
   - reading
 location: Bangalore
@@ -161,3 +161,22 @@ I started reading [The Myth of Sisyphus](https://www.goodreads.com/book/show/919
 | 19-10-2025 | [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) (Started) | upto 9%            |                                         |
 | 20-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)        | upto 59%           | Book-9 (Ch-1,2,3,4)                     |
 | 21-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)        | upto 65%           | Book-9 (Ch-5,6,7,8,9), Book-10 (Ch-1,2) |
+
+### Week-8
+Finished reading [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov), man. I know I've read something great, but I just can't put into words what specifically I like about it, For example If I were to recommend it to someone what would I say to them that why they should read it, I don't know! This books is so many things:
+* It's about human nature and various aspects of said nature.
+* It's a philosophical dialogue on topics such a faith and lack of faith.
+* It's a family drama.
+* It's a murder mystery.
+I had gone through so many different emotions while reading this, but when I finished it I was just blank. <br>
+Also resumed reading [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale) which I had started (6 weeks ago) and briefly read but decided to put on hold and read B.K. instead. 
+
+| Date       | Book/s                                                                                    | Pages/Percent Read | Chapters Read                       |
+| ---------- | ----------------------------------------------------------------------------------------- | ------------------ | ----------------------------------- |
+| 22-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 71%           | Book-10 (Ch-3-7), Book-11 (Ch-1,2)  |
+| 23-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 78%           | Book-11 (Ch-3-8)                    |
+| 24-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 83%           | Book-11 (Ch-9,10), Book-12 (Ch-1-3) |
+| 25-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | upto 87%           | Book-12 (Ch-4-8)                    |
+| 26-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | Finished           | Book-12 (Ch-9-14) Epilogue (Ch-1-3) |
+| 27-10-2025 |                                                                                           |                    |                                     |
+| 28-10-2025 | [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale)   | 12 (upto page 72)  | 10,11,12                            |
