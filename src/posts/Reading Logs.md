@@ -4,7 +4,7 @@ title: Reading Logs
 slug: reading-logs-2025
 description: Attempting to achieve my reading goal for the year 2025
 added: Sep 03 2025 00:08
-updated: Oct 29 2025 00:21
+updated: Nov 19 2025 10:42
 tags:
   - reading
 location: Bangalore
@@ -163,12 +163,12 @@ I started reading [The Myth of Sisyphus](https://www.goodreads.com/book/show/919
 | 21-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)        | upto 65%           | Book-9 (Ch-5,6,7,8,9), Book-10 (Ch-1,2) |
 
 ### Week-8
-Finished reading [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov), man. I know I've read something great, but I just can't put into words what specifically I like about it, For example If I were to recommend it to someone what would I say to them that why they should read it, I don't know! This books is so many things:
+Finished reading [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov), man. I know I've read something great, but I just can't put into words what specifically I like about it, If someone were to ask me would I recommend it I would say yes without a thought, but at this point I don't know specifically why! This books is so many things:
 * It's about human nature and various aspects of said nature.
 * It's a philosophical dialogue on topics such a faith and lack of faith.
 * It's a family drama.
-* It's a murder mystery.
-I had gone through so many different emotions while reading this, but when I finished it I was just blank. <br>
+* It's a murder mystery.<br>
+I had gone through so many different emotions while reading this, but when I finished it I was just blank. All I know is that I just want to read more Dostoevsky. <br>
 Also resumed reading [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale) which I had started (6 weeks ago) and briefly read but decided to put on hold and read B.K. instead. 
 
 | Date       | Book/s                                                                                    | Pages/Percent Read | Chapters Read                       |
@@ -180,3 +180,39 @@ Also resumed reading [The Handmaid's Tale](https://www.goodreads.com/book/show/3
 | 26-10-2025 | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | Finished           | Book-12 (Ch-9-14) Epilogue (Ch-1-3) |
 | 27-10-2025 |                                                                                           |                    |                                     |
 | 28-10-2025 | [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale)   | 12 (upto page 72)  | 10,11,12                            |
+
+### Week-9 
+
+| Date       | Book/s                                                                            | Pages/Percent Read | Chapters Read |
+| ---------- | --------------------------------------------------------------------------------- | ------------------ | ------------- |
+| 29-10-2025 |                                                                                   |                    |               |
+| 30-10-2025 | [The Great Gatsby](https://www.goodreads.com/book/show/41733839-the-great-gatsby) |                    | Ch-1,2,3      |
+| 31-10-2025 |                                                                                   |                    |               |
+| 01-11-2025 |                                                                                   |                    |               |
+| 02-11-2025 | [The Great Gatsby](https://www.goodreads.com/book/show/41733839-the-great-gatsby) |                    | Ch-4,5        |
+| 03-11-2025 |                                                                                   |                    |               |
+| 04-11-2025 |                                                                                   |                    |               |
+
+### Week-10
+
+| Date       | Book/s                                                                            | Pages/Percent Read | Chapters Read |
+| ---------- | --------------------------------------------------------------------------------- | ------------------ | ------------- |
+| 05-11-2025 | [The Great Gatsby](https://www.goodreads.com/book/show/41733839-the-great-gatsby) |                    | Ch-6          |
+| 06-11-2025 | [Watchmen](https://www.goodreads.com/book/show/472331.Watchmen)                   |                    | Ch-1          |
+| 07-11-2025 |                                                                                   |                    |               |
+| 08-11-2025 |                                                                                   |                    |               |
+| 09-11-2025 |                                                                                   |                    |               |
+| 10-11-2025 |                                                                                   |                    |               |
+| 11-11-2025 |                                                                                   |                    |               |
+
+### Week-11
+
+| Date       | Book/s                                                                                  | Pages/Percent Read | Chapters Read |
+| ---------- | --------------------------------------------------------------------------------------- | ------------------ | ------------- |
+| 12-10-2025 |                                                                                         |                    |               |
+| 13-10-2025 |                                                                                         |                    |               |
+| 14-10-2025 |                                                                                         |                    |               |
+| 15-10-2025 | [The Great Gatsby](https://www.goodreads.com/book/show/41733839-the-great-gatsby)       | Finished           | Ch-7,8,9      |
+| 16-10-2025 | [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale) | 75-90              |               |
+| 17-10-2025 | [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale) | 90-102             |               |
+| 18-10-2025 |                                                                                         |                    |               |
