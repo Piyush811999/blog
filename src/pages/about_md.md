@@ -6,9 +6,9 @@
     <img title="Profile Photo" alt="Profile Photo" src="../../assets/profile_photo.png" style="max-width: 200px; border-radius: 50%;">
 </div>
 
-Hi! I’m Piyush Makwana, a tech enthusiast who loves creating stuff using technology. My interests include [writing, (over)thinking](/tag/thoughts), [travelling](/tag/travel-log), drawing, designing, video games, and recently, I’ve been enjoying watching movies in theaters and playing board games with my friends.
+Hi! I’m Piyush Makwana, a tech enthusiast who loves creating stuff using technology but rarely does it so am I really?. My interests include [writing, (over)thinking](/tag/thoughts), [travelling](/tag/travel-log), drawing, designing, video games, [reading](/tag/reading) and recently, I’ve been enjoying watching movies in theaters and practicing long distance running.
 
-I was previously a Senior Data Engineer ~~Software Engineer~~ at Paytm in Bangalore where I worked for 3.5 years. I graduated from IIT Roorkee with a B.Tech. in Computer Science & Engineering in 2021. I was born and raised in Ajmer, and I’ve lived in Kota (during high school), Roorkee (during college), and Bangalore (currently).
+Currently I work at CRED, previously I was a Senior Data Engineer at Paytm in Bangalore where I worked for 3.5 years. I graduated from IIT Roorkee with a B.Tech. in Computer Science & Engineering in 2021. I was born and raised in Ajmer, and I’ve lived in Kota (during high school), Roorkee (during college), and I am currently living in Bangalore.
 
 
 
@@ -16,7 +16,7 @@ I was previously a Senior Data Engineer ~~Software Engineer~~ at Paytm in Bangal
 
 This is my primary and currently only active online outlet, I write about my experiences and things that I find interesting here. <br>
 
-All the words in this blog are typed by me, LLMs/Writing-Tools are only used for correcting spelling mistakes and adding missing punctuations.
+All the words in this blog are typed by me, LLMs/Writing-Tools are only used for correcting spelling mistakes and adding missing punctuations, unless declared otherwise at the start of the blog post.
 
 <br>
 <br>

@@ -1,10 +1,10 @@
 ---
 layout: ../layouts/BlogPost.astro
-title: Reading Logs
+title: Reading Logs Fall 2025
 slug: reading-logs-2025
 description: Attempting to achieve my reading goal for the year 2025
 added: Sep 03 2025 00:08
-updated: Nov 19 2025 10:42
+updated: Jan 26 2026 12:47
 tags:
   - reading
 location: Bangalore
@@ -206,13 +206,40 @@ Also resumed reading [The Handmaid's Tale](https://www.goodreads.com/book/show/3
 | 11-11-2025 |                                                                                   |                    |               |
 
 ### Week-11
+Finished reading [The Great Gatsby](https://www.goodreads.com/book/show/41733839-the-great-gatsby), I don't know how I feel about it, I wish I hadn't seen the movie so that I could from my own interpretations of the book.  
 
 | Date       | Book/s                                                                                  | Pages/Percent Read | Chapters Read |
 | ---------- | --------------------------------------------------------------------------------------- | ------------------ | ------------- |
-| 12-10-2025 |                                                                                         |                    |               |
-| 13-10-2025 |                                                                                         |                    |               |
-| 14-10-2025 |                                                                                         |                    |               |
-| 15-10-2025 | [The Great Gatsby](https://www.goodreads.com/book/show/41733839-the-great-gatsby)       | Finished           | Ch-7,8,9      |
-| 16-10-2025 | [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale) | 75-90              |               |
-| 17-10-2025 | [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale) | 90-102             |               |
-| 18-10-2025 |                                                                                         |                    |               |
+| 12-11-2025 |                                                                                         |                    |               |
+| 13-11-2025 |                                                                                         |                    |               |
+| 14-11-2025 |                                                                                         |                    |               |
+| 15-11-2025 | [The Great Gatsby](https://www.goodreads.com/book/show/41733839-the-great-gatsby)       | Finished           | Ch-7,8,9      |
+| 16-11-2025 | [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale) | 75-90              |               |
+| 17-11-2025 | [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale) | 90-102             |               |
+| 18-11-2025 |                                                                                         |                    |               |
+
+# Epilogue
+Written on: 26th Jan 2026
+
+As one can observe above, I gave up on building this habit at around week 11 (I have a very good excuse for this; my career break came to an end, and lots of free time I had disappeared). Thought this activity, I read 4 books; one of them ([The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)) was very long and quiet outside my comfort zone. Without this experiment, I wouldn't have read it, and I am glad I did. <br>
+
+Post this activity, I read one more book ([All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red)) in the year 2025, which makes a total of [12 books](https://www.goodreads.com/user/year_in_books/2025/80999749) read in 2025, while it is a "little less" than 24 (my original goal). It is still the most number of books I've read in any year. <br>
+
+One of the books I've tried the hardest to read was the [The Handmaid's Tale](https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale). I don't know what it is. It's not like I didn't enjoy it; I did whenever I picked it up, but it was just so hard to pick it up. From this, I should learn that some books I should just give up on, but honestly, I didn't learn that. I still want to finish it... someday. 
+
+## What did I learn from this? 
+Honestly, nothing new; the same old logical and rational stuff:
+
+- It's better to read a little every day rather than doing a lot on a few days... bla bla bla
+- It's okay to leave something unfinished if it does not click... bla bla bla <br>
+
+These are the facts I already knew, but my brain refuses to internalize them properly. I am stupid. <br>
+Some facts about myself that got reinforced:
+* I really like good long-format content, long books like the [BK](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov), 3hr long movies, long video games. <br>
+
+Not everything has to be a life lesson. I really enjoyed the 4 books I read throughout this activity. If it wasn't for this activity, I probably wouldn't have read even that. 
+
+##  What's next?
+I don't have a particular number of reading goals this year. What I do know is I want to read long books; specifically, I want to read: The Odyssey, Infinite Jest, and Crime and Punishment. <br>
+
+I still would like to build the habit of reading someday, but I don't think it’s currently a priority (it is to keep the other existing good habits I have, while getting used to having an in-office job).
