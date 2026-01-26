@@ -9,6 +9,12 @@ tags:
   - reading
 location: Bangalore
 ---
+### Index
+* [Prologue](#prologue)
+* [Logs](#logs)
+* [Epilogue](#epilogue)
+---
+
 # Prologue
 
 At some point in the beginning of this year I decided to set a very ambitious goal for myself, to read 24 books this year, and it’s going as any new year’s goal is canonically supposed to go i.e. not great.
