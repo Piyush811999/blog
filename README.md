@@ -16,6 +16,8 @@ Hi, welcome. This blog is a modified fork of this [blahg](https://github.com/cas
 
 <!-- List of links to markdown files in posts directory -->
 <!-- Update this list as you add new posts -->
+- [2025 Media Recap](src/posts/2025%20Media%20Recap.md)
+- [Reading Logs Fall 2025](src/posts/Reading%20Logs.md)
 - [Munnar (Travel-log)](src/posts/Munnar%20(Travel-log).md)
 - [Hyderabad (Travel-log)](src/posts/Hyderabad%20(Travel-log).md)
 - [Japan (Travel-log)](src/posts/Japan%20(Travel-log).md)
