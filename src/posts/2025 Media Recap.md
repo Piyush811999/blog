@@ -5,6 +5,7 @@ slug: media-recap-2025
 description: What I Watched, and Read, Listed to in 2025
 added: Feb 07 2026 13:30
 updated: Feb 07 2026 16:25
+location: Bangalore
 tags:
   - life-log
   - thoughts
