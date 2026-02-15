@@ -35,7 +35,7 @@ I have seen some movies with vampires in them, some movies that are good histori
 The above two movies are well liked by many, but this one's not so much. I think this is the sort of movie that speaks very well to only a particular slice of audience. I was part of that audience. The way it's shot is a work of art (it’s messy but it's good). I am glad Dany Boyle is taking this medium forward with such a risky style of filmmaking. Also, the music is such a surprise coming from a lesser-known artist. I still listen to its soundtrack often. 
 
 ### Notable mentions
-In 2025, I got to experience **Interstellar** in IMAX. It was one of the best experiences of my life (not just theater). I also got to watch **The Godfather**, The Brothers Karamazov, and **Spider-Man 2** in theaters. Experiencing all of these was sublime. 
+In 2025, I got to experience **Interstellar** in IMAX. It was one of the best experiences of my life (not just theater). I also got to watch **The Godfather**, **The Godfather Part-2**, and **Spider-Man 2** in theaters. Experiencing all of these was sublime. 
 Watching **Amélie** felt like being heard. **Boyhood** might become my go-to movies to rewatch. **Wake Up Dead Man** was my favourite Knives Out movie. **A Real Pain** was really good.
 
 
@@ -169,9 +169,9 @@ I started reading this immediately after finishing Ender's Game (its predecessor
 ## 2. Siddhartha
 I wouldn't call myself a spiritual person, but this book has been the closest I could ever get to "getting it“. One of the most thought-provoking books I've read so far.
 
-## 3. The Brothers Karamazov / Project Hair Marry
+## 3. The Brothers Karamazov / Project Hail Marry
 It's a tie between Project Hair Marry and The Brothers Karamazov.
-* **Project Hair Marry**: I loved it from start to finish, especially the final 1/3rd of the book, which I just couldn't put down and finished in a day. There's this particular character (no spoilers) that I just adored more than any other fictional character in recent memory. The flashback sequences were a bit annoying in the beginning. I can't wait to watch the movie adaptation of this when it comes out in a few months. 
+* **Project Hail Marry**: I loved it from start to finish, especially the final 1/3rd of the book, which I just couldn't put down and finished in a day. There's this particular character (no spoilers) that I just adored more than any other fictional character in recent memory. The flashback sequences were a bit annoying in the beginning. I can't wait to watch the movie adaptation of this when it comes out in a few months. 
 * **The Brothers Karamazov**: Finishing this was sort of an achievement. I don't think that my mind would come up with words that would do this one justice. All I can say is I liked it, but I couldn't think of anyone in my life I would recommend this to (which is a bit annoying). This is the sort of book I might get something different out of if I read it in a different phase of life, which I look forward to doing maybe in a decade.
 
 | **Title**                                                                                                                              | **Rating** | **Notes / Status**              |
