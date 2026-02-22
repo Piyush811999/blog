@@ -263,6 +263,6 @@ Hmm now I forgot to save the PlayStation recap before It got taken down so I don
 <hr>
 
 <br>
-<div style="background-color: lightgray; padding: 10px">
+<div class = "div_box">
 Note: Ratings in the tables represent feelings/opinions short term after watching them (hours to few days), not a good representation of how much they have stayed with me.
 </div>

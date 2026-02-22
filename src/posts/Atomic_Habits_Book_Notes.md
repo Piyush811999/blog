@@ -123,7 +123,7 @@ tags: [book-notes, psychology, self-help]
 - The true question is "Are you becoming the type of person you want to become?"
 - “The first step is not what or how, but who.”  Building habits are not abut having something. They are about becoming someone, changing your belief about yourself.
 
-<div style="background-color: lightgray; padding: 10px">
+<div class = "div_box">
 <b>What I wan't to become down the line ?</b>
 
 I wan't to be either a entrepreneur or a business man (or independent in any other way), I think I have ideas that are worth putting out in this world and I want to work on them. 
@@ -177,7 +177,7 @@ I wan't to be either a entrepreneur or a business man (or independent in any oth
     - We can split these four steps into two phases:
         - The problem phase - realising something needs to change. Cue and Craving
         - The Solution phase - taking the action and achieving the desired change. Response and Reward
-        <div style="background-color: lightgray; padding: 10px">
+        <div class = "div_box">
          Example
          <ul>
             <li> cue - phone buzzed with a new text message </li>
@@ -223,7 +223,7 @@ I wan't to be either a entrepreneur or a business man (or independent in any oth
 
 **“Does this behaviour help me become the type of person I wish to be? Does this habit cast a vote for or against my desired identity?”**
 
-<div style="background-color: lightgray; padding: 10px">
+<div class = "div_box">
 
 - Wakeup =
 - Turn off alarm =
@@ -248,7 +248,7 @@ I wan't to be either a entrepreneur or a business man (or independent in any oth
     ```
     I will {Behaviour} at {Time} in {Location}
     ```
-    <div style="background-color: lightgray; padding: 10px">
+    <div class = "div_box">
     Example -"I will meditate for ten minutes at 7 a.m. cross-legged on the chair in my room", "I will read a book for one hour at 11 p.m. sitting on the bed in my room"
     </div>
 - **Many people think they lack motivation when what they really lack is clarity.**
@@ -257,7 +257,7 @@ I wan't to be either a entrepreneur or a business man (or independent in any oth
     - An implementation intention sweeps away foggy notions like above and transforms them into a concrete plan of action, The goal is to make the time and location so obvious that with enough repetition, you get urge to do the right thing at the right time, even if you can't say why.
 - **Habit Stacking: A simple plan to overhaul your habits**
     - **The Diderot Effect**: it states that obtaining a new possession often creates a spiral of consumption that leads to additional purchases.
-        <div style="background-color: lightgray; padding: 10px">
+        <div class = "div_box">
         Example - you buy some new clothes and you have to get new shoes to go with it, you get a new phone/ laptop and find yourself chasing all of the accessories that go with it like new cable, dongle, case etc.
         </div>
         - It's a chain reaction of purchases.
@@ -266,14 +266,14 @@ I wan't to be either a entrepreneur or a business man (or independent in any oth
     ```
     After {Current habit}, I will {New Habit}.
     ```
-   <div style="background-color: lightgray; padding: 10px">
+   <div class = "div_box">
         Example: "After I brush my teeth each morning, I will meditate for ten minutes", "After I brush my teeth each evening, I will read a book for one hour"
    </div>
 
     - **The key is to tie your desired behaviour into something you already do each day.**
     - Habit stacking implicitly has the time and location built into it.
     - Once you mastered this basic structure, you can begin to create larger stacks by chaining small habits together. **This allows us to take advantage of the natural momentum that comes from one behaviour leading into the next** - a positive version of Diderot Effect.
-       <div style="background-color: lightgray; padding: 10px">
+       <div class = "div_box">
         Example: "After I brush my teeth in the morning, I will meditate for ten minutes", "After I meditate for ten minutes, I will write don my to-do list for the day", "After I write my to-do list for the day, I will immediately begin my first task."
         </div>
     - Examples of some general habit stacks to guide you whenever the situation is appropriate.
@@ -298,7 +298,7 @@ I wan't to be either a entrepreneur or a business man (or independent in any oth
         
 - “The 1st Law of Behaviour Change is to make it obvious. Strategies like implementation intentions and habit stacking are among the most practical ways to create obvious cues for your habits and design a clear plan for when and where to take action”
 
-<div style="background-color: lightgray; padding: 10px">
+<div class = "div_box">
 
 **Habits I do each day without fail**
 
@@ -367,14 +367,14 @@ B = f(P,E)
     - Creating a more disciplined environment.
 - **Bad habits are autocatalytic and nearly impossible to remove entirely** ( you can break it but you're unlikely to forget it. )
     - the process of feeds itself. They foster the feeling they try to numb. 
-    <div style="background-color: lightgray; padding: 10px">
+    <div class = "div_box">
     Example - You feel bad, so you eat junk food. Because you eat junk food, you feel bad. It's a downward spiral of bad habits.
     </div>
 - Researchers refer to this phenomenon as "cue-induced wanting" : an external trigger causes a compulsive craving to repeat a bad habit. Once you notice something, you begin to want it.
     - “You can break a habit, but you’re unlikely to forget it. **Once the mental grooves of habit have been carved into your brain, they are nearly impossible to remove entirely**—even if they go unused for quite a while.”
 
 - One of the most practical way to eliminate a bad habit is to **reduce exposure to the cue that causes it.**
-    <div style="background-color: lightgray; padding: 10px">
+    <div class = "div_box">
     Examples
         "If you spend too much money on electronics stop watching review of the latest tech gadgets.",
         "If you are playing too many video games unplug the console and put it in a closet after each use."
@@ -387,7 +387,7 @@ B = f(P,E)
 
 - Supernormal stimuli - heightened version of reality.
     - Our brain ( brain of each animal ) is pre-loaded with certain rules for behaviour, and when it comes across an exaggerated version of that rule, it lights up like a Christmas tree. 🎄
-    <div style="background-color: lightgray; padding: 10px">
+    <div class = "div_box">
     Example - We love junk food because of their higher content of sugar, salt,  fat, and their unique texture ( enhanced dynamic contrast ) . which used to be rare in old times that's why we it's idea.
     </div>
  - **If you want to increase the odd that a behaviour will occur, then you need to make it attractive.** To do this we first need to understand what a craving is and how it works.
@@ -406,7 +406,7 @@ After [CURRENT HABIT/FIXED HABIT],  I will [HABIT I NEED].
 ```
 After/While [HABIT I NEED], I will [HABIT I WANT].
 ```
-<div style="background-color: lightgray; padding: 10px">    
+<div class = "div_box">    
     Examples-
         "After I pull out my phone, I will do 3 push ups.",
         "After I do 3 push ups, I will check reddit."
@@ -444,7 +444,7 @@ After/While [HABIT I NEED], I will [HABIT I WANT].
     - Reframing your habits to highlight their benefits rather than their drawbacks is a fast and lightweight way to reprogram your mind and make a habit seem more attractive.
         - “Exercise. Many people associate exercise with being a challenging task that drains energy and wears you down. You can just as easily view it as a way to develop skills and build you up. Instead of telling yourself ```“I need to go run in the morning,”``` say ```“It’s time to build endurance and get fast.”```
 
-        <div style="background-color: lightgray; padding: 10px">
+        <div class = "div_box">
         “Meditation. Anyone who has tried meditation for more than three seconds knows how frustrating it can be when the next distraction inevitably pops into your mind. You can transform frustration into delight when you realise that each interruption gives you a chance to practice returning to your breath. Distraction is a good thing because you need distractions to practice meditation”
         </div>
 - Motivation ritual - **associating your habits with something you enjoy.**
@@ -539,7 +539,7 @@ After/While [HABIT I NEED], I will [HABIT I WANT].
     - Every habit produces multiple outcome across time. **with our bad habits, the immediate outcome usually feels good, but the ultimate outcome feels bad.**
     - When the moment of decision arrives, **instant gratification usually wins.**
     -**If you're willing to wait for the reward, you'll face less competition and often get a bigger payoff.** As the saying goes, the last mile is always the least crowded. This is true for nearly every field.
-    <div style="background-color: lightgray; padding: 10px">
+    <div class = "div_box">
         Example: Advantage of buying ps5 later instead of now
             <ul>
                 <li>More available games at lower price</li>
@@ -579,7 +579,7 @@ After/While [HABIT I NEED], I will [HABIT I WANT].
     - The breaking of a habit doesn't matter if the reclaiming of it is fast.
     - It is important because **lost days hurt you more than successful days help you.**
 
-    <div style="background-color: lightgray; padding: 10px">
+    <div class = "div_box">
         Ex- if you start with 100bucks, then a 50% gain will take you to 150, but you only need 33% loss to take you back to 100bucks.
     </div>
 
@@ -669,7 +669,7 @@ After/While [HABIT I NEED], I will [HABIT I WANT].
     - `"I'am the Entrepreneur"` translates to `"I'm the type of person who builds and creates things"`
 - Everything is impermanent. Life is constantly changing, so you need to periodically check in to see if your old habits and beliefs are still serving you.
 
-<div style="background-color: lightgray; padding: 10px">
+<div class = "div_box">
 <ul>
     <li>Example- Annual Review
         <ol>

@@ -4,6 +4,8 @@
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
 :root {
+	--brand-hue: 210;
+  	--brand-sat: 80%;
 	--white: #fff;
 	--transwhite: rgba(255, 255, 255, 0.8);
 	--moretranswhite: rgba(239, 239, 239, 0.1);
@@ -21,6 +23,10 @@
 	--pink: #eb4888;
 	--blue: #10a2f5;
 	--yellow: #e9bc3f;
+}
+.div_box {
+	background-color: lightgray; 
+	padding: 10px;
 }
 
 ::selection {
@@ -49,7 +55,7 @@ b {
 	color: var(--black);
 }
 
-/* body.dark-mode,
+body.dark-mode,
 body.dark-mode button,
 body.dark-mode h1,
 body.dark-mode .go-home,
@@ -60,49 +66,13 @@ button.dark-mode button {
 }
 body.dark-mode nav {
 	background: var(--transblack);
-} */
+}
 
 .tag-title {
 	font-weight: 400;
 	color: var(--black);
 }
 
-/* @media (prefers-color-scheme: dark) {
-	::selection {
-		background-color: #0f0f0f;
-		color: var(--white);
-	}
-	:root {
-		--gray: #a4a4a4;
-	}
-	html,
-	body,
-	body button,
-	body h1,
-	body strong,
-	body b,
-	body em,
-	body blockquote,
-	body .go-home {
-		background: var(--black);
-		color: var(--white);
-	}
-	body nav {
-		background: var(--transblack);
-	}
-	body code {
-		background-color: var(--moretranswhite);
-	}
-	body a {
-		color: var(--white);
-	}
-	body .tag {
-		color: var(--gray);
-	}
-	.tag-title {
-		color: var(--white);
-	}
-} */
 
 h2,
 h3,
@@ -418,6 +388,80 @@ ul li time {
 
 	body {
 		padding: 0;
+	}
+
+}
+
+@media (prefers-color-scheme: dark) {
+	::selection {
+		background-color: var(--highlight);
+		color: var(--black);
+	}
+	:root {
+		--gray: #a4a4a4;
+	}
+	html,
+	body,
+	body button,
+	body em,
+	body blockquote,
+	body .go-home {
+		background: var(--black);
+		color: var(--white);
+	}
+	body nav {
+		background: var(--transblack);
+		color: var(--white);
+	}
+	body a {
+		color: var(--white);
+		background-color: #2f5351;
+	}
+	body .tag {
+		color: var(--gray);
+		background-color: #3f3f3f;
+	}
+	body b,
+	body h1,
+	body strong
+	{
+		color: var(--white);
+	}
+	.tags-title {
+		color: var(--white);
+		background-color: #3f3f3f;
+	}
+	.website-header-title {
+        color: #1bcabb; /* aOr use var(--white), or a new light hex color */
+    }
+	.website-header-icon {
+		color: #363636; 
+		background-color: #1bcabb; /* Or use var(--white), or a new light hex color */
+	}
+	.navigation_title {
+		color: var(--white);
+	}
+	.navigation_title:hover {
+	color: var(--white);
+	}
+	a:hover {
+    background-color: var(--darkgray);
+	color: var(--black)
+	}
+	.blog-post-title {
+	color:	#c2c2c2;
+	}
+	.blog-post-subtitle {
+	color: #8b8b8b;
+	}
+	td {
+	background-color: rgb(63, 63, 63);
+	}
+	a[href*='//']{
+    background-color: #365f5d;
+	}
+	.div_box {
+	background-color: rgb(63, 63, 63); 
 	}
 
 }

@@ -131,7 +131,7 @@ Most of the work is done while writing (During the Post tweet operation)
 * Avg writes to home timeline cache = 4.6k/sec x 75 (which is avg. no of followers per user)
 * Avg writes to home timeline cache = 345k/sec (per user)
 
-<div style="background-color: lightgray; padding: 10px">
+<div class = "div_box">
 <b>Load Parameter</b>: Distribution of followers per user weighted by avg. no. of tweets per user.
 </div>
 

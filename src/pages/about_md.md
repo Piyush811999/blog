@@ -3,7 +3,7 @@
 # About me
 
 <div style="display: flex; justify-content: center;">
-    <img title="Profile Photo" alt="Profile Photo" src="../../assets/profile_photo.png" style="max-width: 200px; border-radius: 50%;">
+    <img title="Profile Photo" alt="Profile Photo" src="../../assets/profile_photo.png" style="max-width: 200px; border-radius: 10%;">
 </div>
 
 Hi! I’m Piyush Makwana, a tech enthusiast who loves creating stuff using technology, but I rarely do it, so am I really? My interests include [writing, (over)thinking](/tag/thoughts), [travelling](/tag/travel-log), drawing, designing, video games, [reading](/tag/reading), and recently, I’ve been enjoying watching movies in theaters and practicing long-distance running.
