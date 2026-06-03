@@ -8,7 +8,7 @@
 
 Hi! I’m Piyush Makwana, a tech enthusiast who loves creating stuff using technology, but I rarely do it, so am I really? My interests include [writing, (over)thinking](/tag/thoughts), [travelling](/tag/travel-log), drawing, designing, video games, [reading](/tag/reading), and recently, I’ve been enjoying watching movies in theaters and practicing long-distance running.
 
-Currently, I work at CRED. Previously, I was a Senior Data Engineer at Paytm. I graduated from IIT Roorkee in 2021, where I did a Bachelor’s in Computer Science. I was born and raised in Ajmer, and I’ve lived in Kota (during high school), Roorkee (during college), and I am currently living in Bangalore.
+Currently, I work at CRED. Previously, I was a Senior Data Engineer at Paytm. I graduated from IIT Roorkee in 2021, where I did a Bachelor’s in Computer Science. I am currently annoyed because there are too many I's in this sentence and "I" don't know what to do about it. I was born and raised in Ajmer, and I’ve lived in Kota (during high school), Roorkee (during college), and I am currently living in Bangalore.
 
 
 
