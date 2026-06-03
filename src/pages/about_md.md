@@ -14,7 +14,7 @@ Currently, I work at CRED. Previously, I was a Senior Data Engineer at Paytm. I 
 
 # About this website
 
-This is my primary and currently only active online outlet, I write about my experiences and things that I find interesting here. <br>
+I write about my experiences and things that I find interesting here, Sometimes. This is also currently my only active online outlet. <br>
 
 All the words in this blog are typed by me, LLMs/Writing-Tools are only used for correcting spelling mistakes and adding missing punctuations, unless declared otherwise at the start of the blog post.
 
