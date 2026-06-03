@@ -1,5 +1,10 @@
 ---
 const { tags, all, blog_footer } = Astro.props;
+
+// Normalize tags: frontmatter gives an array, getTags() gives an object {tag: count}
+const normalizedTags = Array.isArray(tags)
+    ? Object.fromEntries(tags.map((tag) => [tag, null]))
+    : tags;
 ---
 
 {all && <h3 class="tag-title">View posts by tag</h3>}
@@ -7,13 +12,13 @@ const { tags, all, blog_footer } = Astro.props;
     <!-- Filter by tags: -->
     {blog_footer && <>Tags: </>}
     {
-        tags &&
-        Object.entries(tags).map(([tag, count]) => (
+        normalizedTags &&
+        Object.entries(normalizedTags).map(([tag, count]) => (
             <>
                 <a class="tag tags_title" href={`/tag/${tag}`}>
-                    #{tag} [{count}]
+                    #{tag}{count !== null ? ` [${count}]` : ""}
                 </a>
-                {``}
+                {` `}
             </>
         ))
     }
