@@ -23,7 +23,9 @@ All the words in this blog are typed by me, LLMs/Writing-Tools are only used for
 
 <div style="text-align: center;">
 
-[**infopiyushmakwana@gmail.com**](mailto:infopiyushmakwana@gmail.com) 
+[**infopiyushmakwana@gmail.com**](mailto:infopiyushmakwana@gmail.com)
+
+[**rss**](/rss.xml)
 
 This blog is open source and can be found [here](https://github.com/Piyush811999/blog). \
 It's forked from [this blog](https://github.com/cassidoo/blahg).
