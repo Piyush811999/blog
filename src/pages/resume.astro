@@ -10,7 +10,6 @@ const description =
 
 const contacts = [
 	{ label: "pmakwana@cs.iitr.ac.in", href: "mailto:pmakwana@cs.iitr.ac.in" },
-	{ label: "piyushmakwana.in", href: "https://piyushmakwana.in" },
 	{ label: "github/Piyush811999", href: "https://github.com/Piyush811999" },
 	{ label: "linkedin/piyushmakwana99", href: "https://www.linkedin.com/in/piyushmakwana99" },
 ];
@@ -102,17 +101,14 @@ const timelines = [
 		<Header />
 		<main>
 			<article class="resume">
-				<h1 class="blog-post-title">Piyush Makwana</h1>
-				<h4 class="blog-post-subtitle">Software Engineer, CRED | B.Tech. CSE, IIT Roorkee</h4>
+				<h1 class="blog-post-title">Resume</h1>
+				<h4 class="blog-post-subtitle">Software Engineer | B.Tech. CSE, IIT Roorkee</h4>
 
 				<p class="resume-contacts">
 					{contacts.map((c) => <a href={c.href}>{c.label}</a>)}
 				</p>
-				<p class="resume-download">
-					<a href="/resume.pdf" download="PiyushMakwana_Resume.pdf">download pdf</a>
-				</p>
 
-				<hr />
+				<!-- <hr /> -->
 
 				<section>
 					<h2 class="resume-heading">Skills</h2>
@@ -179,6 +175,12 @@ const timelines = [
 						</ul>
 					</section>
 				))}
+
+				<hr />
+
+				<p class="resume-download">
+					<a href="/resume.pdf" download="PiyushMakwana_Resume.pdf">download pdf</a>
+				</p>
 			</article>
 			<br />
 		</main>
@@ -202,7 +204,7 @@ const timelines = [
 
 	.resume-download {
 		font-size: 0.85rem;
-		margin: 10px 0 0 0;
+		margin: 0;
 	}
 
 	.resume section {
@@ -285,13 +287,15 @@ const timelines = [
 		padding: 0;
 		margin: 0;
 		font-size: 0.9rem;
+		display: grid;
+		grid-template-columns: max-content 1fr;
+		gap: 0.6rem 16px;
 	}
 
 	ul.resume-timeline li {
 		display: grid;
-		grid-template-columns: 5.5ch 1fr;
-		gap: 12px;
-		margin-bottom: 0.6rem;
+		grid-column: 1 / -1;
+		grid-template-columns: subgrid;
 	}
 
 	.resume-tag {
