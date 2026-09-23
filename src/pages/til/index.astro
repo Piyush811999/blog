@@ -1,0 +1,87 @@
+---
+import BaseHead from "../../components/BaseHead.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import ColorScript from "../../components/ColorScript.astro";
+import { SITE_TITLE } from "../../config";
+
+// import.meta.glob (unlike Astro.glob) doesn't throw while src/til is empty.
+const tils = Object.values(import.meta.glob("../../til/*.md", { eager: true })).sort(
+	(a, b) =>
+		new Date(b.frontmatter.added).valueOf() -
+		new Date(a.frontmatter.added).valueOf()
+);
+
+// Group by month, newest first: [["September 2026", [til, ...]], ...]
+const groups = [];
+for (const til of tils) {
+	const month = new Date(til.frontmatter.added).toLocaleDateString("en-us", {
+		year: "numeric",
+		month: "long",
+	});
+	const last = groups[groups.length - 1];
+	if (last && last[0] === month) last[1].push(til);
+	else groups.push([month, [til]]);
+}
+---
+
+<!doctype html>
+<html lang="en-us">
+	<BaseHead
+		title={`Today I Learned | ${SITE_TITLE}`}
+		description="Small things I learned, written down as I learn them."
+	/>
+	<body>
+		<Header />
+		<main>
+			<content>
+				<h1 class="blog-post-title">Today I Learned</h1>
+				<p class="text-light">Small things I learned, written down as I learn them.</p>
+				{tils.length === 0 && <p class="text-light">Nothing here yet.</p>}
+				{
+					groups.map(([month, items]) => (
+						<section class="til-month">
+							<h3>{month}</h3>
+							<ul class="til-list">
+								{items.map(({ frontmatter: { title, slug, added } }) => (
+									<li>
+										<time datetime={new Date(added).toISOString()}>
+											{new Date(added).toLocaleDateString("en-us", {
+												month: "short",
+												day: "2-digit",
+											})}
+										</time>
+										<a href={`/til/${slug}/`}>{title}</a>
+									</li>
+								))}
+							</ul>
+						</section>
+					))
+				}
+			</content>
+			<Footer />
+		</main>
+		<ColorScript />
+	</body>
+</html>
+
+<style>
+	.til-month h3 {
+		margin-bottom: 0.4em;
+	}
+	.til-list {
+		padding: unset;
+		list-style-type: none;
+		margin: 0 0 1.5em 0;
+	}
+	.til-list li {
+		display: flex;
+		gap: 1em;
+		align-items: baseline;
+		margin: 0 0 0.6em 0;
+	}
+	.til-list time {
+		flex: none;
+		min-width: 4em;
+	}
+</style>
