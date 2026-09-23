@@ -1,0 +1,315 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import ColorScript from "../components/ColorScript.astro";
+
+const title = "Resume | Piyush Makwana";
+const description =
+	"Resume of Piyush Makwana, Software Engineer (Data Engineering), B.Tech. CSE from IIT Roorkee.";
+
+const contacts = [
+	{ label: "pmakwana@cs.iitr.ac.in", href: "mailto:pmakwana@cs.iitr.ac.in" },
+	{ label: "github/Piyush811999", href: "https://github.com/Piyush811999" },
+	{ label: "linkedin/piyushmakwana99", href: "https://www.linkedin.com/in/piyushmakwana99" },
+];
+
+const skills = [
+	{ name: "Programming Languages", items: "Python, Scala, JavaScript, TypeScript, Swift, Java" },
+	{ name: "Frameworks & Libraries", items: "Spark, Kafka, React JS, Redux, ARKit, UIKit" },
+	{
+		name: "Tools & Technologies",
+		items: "AWS (S3, EC2, EMR, EKS), Databricks, Airflow, NGINX, SQL, Jenkins, Git, Vim, VSCode, XCode, LLMs",
+	},
+];
+
+const experience = [
+	{
+		company: "CRED",
+		location: "Bengaluru, India (In-Office)",
+		role: "Software Engineer | Core Data | Full time contract",
+		period: "Nov. 2025 - Present",
+		points: [
+			"Migrated 50+ Apache Spark jobs from Databricks to open Spark on AWS EMR, reducing vendor lock-in and compute costs.",
+			"Optimized Spark executor-to-vCPU mapping for EKS workloads, eliminating compute over-provisioning and cutting ingestion costs by ~50%.",
+			"Overhauled observability and alerting systems to decrease alert noise and established a priority framework for P0 incident resolution.",
+			"Managed frequent on-call monitoring, handling data engineering escalations and providing platform support across teams.",
+			"Developed scripts and custom LLM agents (primarily Claude) to automate operations and accelerate engineering workflows.",
+		],
+		stack: "Spark, Scala, Python, Java, Databricks, AWS (EKS, EMR, S3), Airflow, LLMs (Claude)",
+	},
+	{
+		company: "Paytm",
+		location: "Bengaluru, India (Hybrid)",
+		role: "Senior Data Engineer | Central Data Platform | Full time",
+		period: "Jun. 2021 - Jan. 2025 (3 yrs. 7 mos.)",
+		points: [
+			"Worked on Feature Store, developed 40+ user properties to aid teams in growth strategies and improve user engagement and retention.",
+			"Cut Spark job execution times and improved data quality through various analysis and optimizations.",
+			"Conducted 2-3 code reviews weekly, enhancing the quality and reliability of the Feature Store, and ensuring compliance with coding standards.",
+			"Led multiple cost-saving projects at Paytm, creating a Python script for automated size calculations and implementing S3 bucket expiration policies, reducing storage by 708 TB, saving $148,000 in AWS costs annually.",
+			"Initiated and led the development of GM-Portal 360, an internal ReactJS portal for Paytm's Central Data Platform, improving visibility for Growth Marketing teams with up-to-date user properties, validation reports, and job statuses. Also saved significant developer time by converting 800+ Scala code logics into SQL and Plain English with Gen-AI, enhancing accessibility for non-technical users.",
+		],
+		stack: "Scala, Python, Spark, AWS, TypeScript, ReactJS, expressJS, Jenkins, NGINX, SQL, GPT (API), Vim, VSCode",
+	},
+	{
+		company: "EnrichAI",
+		location: "Gurgaon, India (Remote)",
+		role: "Augmented Reality App Developer | Intern",
+		period: "Apr. 2020 - Jun. 2020 (2 mos.)",
+		points: [
+			"Designed and developed an iOS AR-based Indoor Navigation platform, leveraging Apple's ARKit Framework.",
+		],
+		stack: "Swift, ARKit, XCode, Git",
+	},
+];
+
+const extracurricular = [
+	{ year: "2018-19", title: "iOS, Android Developer and Designer", detail: "Mobile Development Group (MDG)", place: "IIT Roorkee" },
+	{ year: "2019", title: "Android Development Mentor", detail: "MDG's Winter of Code '19", place: "IIT Roorkee" },
+	{ year: "2017-19", title: "Member", detail: "NSS IITR", place: "IIT Roorkee" },
+];
+
+const projects = [
+	{
+		year: "2021",
+		title: "Time Series analysis and forecasting (BTech Project)",
+		detail: "Implemented various time series forecasting models, including ARIMA, SARIMA, and Fuzzy, to analyze and assess patterns in daily USD/INR exchange rates.",
+		place: "Python",
+	},
+	{ year: "2018", title: "Convocation IITR", detail: "IIT Roorkee's official iOS Convocation app for graduates year 2018.", place: "Swift" },
+	{ year: "2018", title: "Effi - Time Management app", detail: "An Android application which aims to help people manage their time.", place: "Java" },
+];
+
+const honors = [
+	{ year: "2023", title: "Rock Star", detail: "Paytm (Central Data Platform)", place: "Bengaluru, India" },
+	{ year: "2022", title: "Rising Star", detail: "Paytm (Central Data Platform)", place: "Bengaluru, India" },
+	{ year: "2019", title: "3rd Prize", detail: "Hack In the North '19", place: "Allahabad, India" },
+];
+
+const timelines = [
+	{ heading: "Extracurricular Activity", rows: extracurricular },
+	{ heading: "Projects", rows: projects },
+	{ heading: "Honors & Awards", rows: honors },
+];
+---
+
+<!doctype html>
+<html lang="en-us">
+	<BaseHead title={title} description={description} />
+	<body>
+		<Header />
+		<main>
+			<article class="resume">
+				<h1 class="blog-post-title">Resume</h1>
+				<h4 class="blog-post-subtitle">Software Engineer | B.Tech. CSE, IIT Roorkee</h4>
+
+				<p class="resume-contacts">
+					{contacts.map((c) => <a href={c.href}>{c.label}</a>)}
+				</p>
+
+				<!-- <hr /> -->
+
+				<section>
+					<h2 class="resume-heading">Skills</h2>
+					<dl class="resume-skills">
+						{skills.map((s) => (
+							<div>
+								<dt>{s.name}</dt>
+								<dd>{s.items}</dd>
+							</div>
+						))}
+					</dl>
+				</section>
+
+				<section>
+					<h2 class="resume-heading">Experience</h2>
+					{experience.map((job) => (
+						<div class="resume-entry">
+							<div class="resume-entry-top">
+								<h3>{job.company}</h3>
+								<span class="text-light">{job.location}</span>
+							</div>
+							<div class="resume-entry-sub">
+								<span>{job.role}</span>
+								<time>{job.period}</time>
+							</div>
+							<ul>
+								{job.points.map((p) => <li>{p}</li>)}
+								<li><strong>Tech Stack:</strong> <span class="text-light">{job.stack}</span></li>
+							</ul>
+						</div>
+					))}
+				</section>
+
+				<section>
+					<h2 class="resume-heading">Education</h2>
+					<div class="resume-entry">
+						<div class="resume-entry-top">
+							<h3>Indian Institute of Technology Roorkee (IITR)</h3>
+							<span class="text-light">Roorkee, India</span>
+						</div>
+						<div class="resume-entry-sub">
+							<span>B. Tech. in Computer Science and Engineering</span>
+							<time>Jul. 2017 - Jul. 2021</time>
+						</div>
+						<ul>
+							<li>Cumulative Grade Point (CGPA): 7.507/10.00</li>
+						</ul>
+					</div>
+				</section>
+
+				{timelines.map((t) => (
+					<section>
+						<h2 class="resume-heading">{t.heading}</h2>
+						<ul class="resume-timeline">
+							{t.rows.map((r) => (
+								<li>
+									<time>{r.year}</time>
+									<span>
+										<strong>{r.title}</strong>, {r.detail}{" "}
+										<span class="text-light resume-tag">({r.place})</span>
+									</span>
+								</li>
+							))}
+						</ul>
+					</section>
+				))}
+
+				<hr />
+
+				<p class="resume-download text-light">
+					This page was parsed from my resume PDF using Claude.
+					You can <a href="/resume.pdf" download="PiyushMakwana_Resume.pdf">download the original pdf</a>.
+				</p>
+			</article>
+			<br />
+		</main>
+		<Footer />
+		<ColorScript />
+	</body>
+</html>
+
+<style>
+	.resume .blog-post-subtitle {
+		margin-bottom: 15px;
+	}
+
+	.resume-contacts {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 6px 14px;
+		font-size: 0.85rem;
+		margin: 0;
+	}
+
+	.resume-download {
+		font-size: 0.85rem;
+		margin: 0;
+	}
+
+	.resume section {
+		margin-top: 2rem;
+	}
+
+	.resume-heading {
+		font-family: var(--font-sans);
+		font-weight: 700;
+		color: var(--header-title-color);
+		font-size: 1.4rem;
+		margin: 0 0 0.8rem 0;
+		padding-bottom: 6px;
+		border-bottom: 1px solid var(--darkgray);
+	}
+
+	.resume-skills {
+		margin: 0;
+		font-size: 0.9rem;
+	}
+
+	.resume-skills > div {
+		margin-bottom: 0.6rem;
+	}
+
+	.resume-skills dt {
+		font-weight: bold;
+	}
+
+	.resume-skills dd {
+		margin: 0;
+		color: var(--gray);
+	}
+
+	.resume-entry {
+		margin-bottom: 1.5rem;
+	}
+
+	.resume-entry-top,
+	.resume-entry-sub {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		align-items: baseline;
+		gap: 0 12px;
+	}
+
+	.resume-entry-top h3 {
+		color: var(--text-color);
+		margin: 0;
+		font-size: 1.1rem;
+	}
+
+	.resume-entry-top .text-light {
+		font-size: 0.8rem;
+		font-style: italic;
+	}
+
+	.resume-entry-sub {
+		font-size: 0.85rem;
+		color: var(--gray);
+	}
+
+	.resume-entry-sub time {
+		font-size: 0.8rem;
+	}
+
+	.resume-entry ul {
+		margin: 0.5rem 0 0 0;
+		padding-left: 1.2rem;
+		font-size: 0.9rem;
+	}
+
+	.resume-entry li {
+		margin-bottom: 0.3rem;
+	}
+
+	ul.resume-timeline {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		font-size: 0.9rem;
+		display: grid;
+		grid-template-columns: max-content 1fr;
+		gap: 0.6rem 16px;
+	}
+
+	ul.resume-timeline li {
+		display: grid;
+		grid-column: 1 / -1;
+		grid-template-columns: subgrid;
+	}
+
+	.resume-tag {
+		font-size: 0.8rem;
+		font-style: italic;
+	}
+
+	@media print {
+		nav,
+		header,
+		footer,
+		.resume-download {
+			display: none;
+		}
+	}
+</style>
