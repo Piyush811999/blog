@@ -1,0 +1,46 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import ColorScript from "../components/ColorScript.astro";
+
+// Tags stay in the frontmatter as metadata but aren't rendered here.
+let {
+	content: { title, description, added },
+} = Astro.props;
+
+const date = new Date(added).toLocaleDateString("en-us", {
+	year: "numeric",
+	month: "short",
+	day: "numeric",
+});
+---
+
+<html lang="en-us">
+	<BaseHead title={`TIL: ${title}`} description={description || title} />
+
+	<body>
+		<Header hideNav={true} />
+		<main>
+			<article>
+				<h1 class="blog-post-title">{title}</h1>
+				{added && <time datetime={new Date(added).toISOString()}>{date}</time>}
+				<hr />
+				<div class="blog-post">
+					<slot />
+				</div>
+				<br />
+				<hr />
+				<br />
+
+				<footer style="display: flex; justify-content: center; align-items: center;">
+					<a class="navigation_title" href="/til">til</a>
+					<a class="navigation_title" href="/">posts</a>
+					<a class="navigation_title" href="/about">about</a>
+				</footer>
+			</article>
+		</main>
+		<Footer />
+		<ColorScript />
+	</body>
+</html>

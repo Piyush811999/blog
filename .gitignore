@@ -19,3 +19,7 @@ pnpm-debug.log*
 .DS_Store
 
 node_modules
+
+# Local Obsidian TIL publish scripts
+scripts/publish-til.sh
+scripts/publish-til.mjs

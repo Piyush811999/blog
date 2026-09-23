@@ -1,0 +1,18 @@
+---
+export async function getStaticPaths() {
+	// import.meta.glob (unlike Astro.glob) doesn't throw while src/til is empty.
+	const tils = Object.values(import.meta.glob("../../til/*.md", { eager: true }));
+
+	return tils.map((til) => {
+		return {
+			params: { slug: til.frontmatter.slug },
+			props: { til: til },
+		};
+	});
+}
+
+const { til } = Astro.props;
+const { Content } = til;
+---
+
+<Content />
